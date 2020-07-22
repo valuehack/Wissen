@@ -1,0 +1,1 @@
+# Tietze, Christian. „How I Use Outlines to Write Any Text“. Zettelkasten Method (blog), 24. Mai 2014. https://www.zettelkasten.de/posts/how-i-use-outlines-to-write-any-text/.

@@ -1,0 +1,1 @@
+# "concept […] Such an element represents an important idea or subject. Multiple topics and items (or even tasks) can be linked to a concept. […] The concept-based network of links is called a concept map. It forms a skeleton for the spreading activation which underlies neural review." (Wozniak :17)

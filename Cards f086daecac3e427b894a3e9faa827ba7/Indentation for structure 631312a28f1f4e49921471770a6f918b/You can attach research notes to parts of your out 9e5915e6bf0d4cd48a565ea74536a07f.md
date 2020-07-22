@@ -1,0 +1,1 @@
+# "You can attach research notes to parts of your outline as descendant items to make clear what belongs together." (Tietze 2014:2)

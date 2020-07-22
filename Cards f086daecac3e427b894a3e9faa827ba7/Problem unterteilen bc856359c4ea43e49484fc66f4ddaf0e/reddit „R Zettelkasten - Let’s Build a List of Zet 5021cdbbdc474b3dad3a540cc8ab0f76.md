@@ -1,0 +1,1 @@
+# reddit. „R/Zettelkasten - Let’s Build a List of Zettelkasten Software!“ Zugegriffen 19. Juli 2020. https://www.reddit.com/r/Zettelkasten/comments/flygc4/lets_build_a_list_of_zettelkasten_software/.

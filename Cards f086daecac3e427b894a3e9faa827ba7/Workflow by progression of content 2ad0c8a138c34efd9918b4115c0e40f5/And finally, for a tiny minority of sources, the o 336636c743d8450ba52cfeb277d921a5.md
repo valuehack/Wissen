@@ -1,0 +1,1 @@
+# "And finally, for a tiny minority of sources, the ones that are so powerful and exciting I want them to become part of how I think and work immediately, I remix them. After pulling them apart and dissecting them from every angle in layers 1-4, I add my own personality and creativity and turn them into something else." (Forte 2017:8)

@@ -1,0 +1,1 @@
+# Jain, Namita, und Vikas Gupta. „The Impact of Knowledge Management System on Student Performance: A Case Study of the University of Delhi“. VINE Journal of Information and Knowledge Management Systems 49, Nr. 1 (6. März 2019): 115–35. https://doi.org/10.1108/VJIKMS-07-2018-0065.

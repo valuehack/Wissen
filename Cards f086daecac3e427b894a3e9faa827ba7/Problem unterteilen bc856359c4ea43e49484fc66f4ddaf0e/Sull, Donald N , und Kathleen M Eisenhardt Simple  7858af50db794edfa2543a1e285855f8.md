@@ -1,0 +1,1 @@
+# Sull, Donald N., und Kathleen M. Eisenhardt. Simple Rules: How to Thrive in a Complex World. Boston: Houghton Mifflin Harcourt, 2015.

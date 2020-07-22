@@ -1,0 +1,1 @@
+# Feynman, Richard P. „THE PROBLEM OF TEACHING PHYSICS IN LATIN AMERICA“, o. J., 8.

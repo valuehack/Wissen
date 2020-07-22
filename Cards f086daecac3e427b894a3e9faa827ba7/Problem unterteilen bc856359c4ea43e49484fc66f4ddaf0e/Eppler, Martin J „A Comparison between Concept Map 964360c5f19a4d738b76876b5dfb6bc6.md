@@ -1,0 +1,1 @@
+# Eppler, Martin J. „A Comparison between Concept Maps, Mind Maps, Conceptual Diagrams, and Visual Metaphors as Complementary Tools for Knowledge Construction and Sharing“. Information Visualization 5, Nr. 3 (September 2006): 202–10. https://doi.org/10.1057/palgrave.ivs.9500131.

@@ -1,0 +1,1 @@
+# Luyt, Brendan, und Daniel Tan. „Improving Wikipedia’s Credibility: References and Citations in a Sample of History Articles“. Journal of the American Society for Information Science and Technology, 2010, n/a-n/a. https://doi.org/10.1002/asi.21304.

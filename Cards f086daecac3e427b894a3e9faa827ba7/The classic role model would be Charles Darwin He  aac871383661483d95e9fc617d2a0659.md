@@ -1,0 +1,5 @@
+# "The classic role model would be Charles Darwin. He forced himself to write down (and therefore elaborate on) the arguments that were the most critical of his theories. "I had [...] during many years followed a golden rule, namely, that whenever a published fact, a new observation or thought came across me, which was opposed to my general results, to make a memorandum of it without fail and at once; for I had found by experience that such facts and thoughts were far more apt to escape from the memory than favorable ones. Owing to this habit, very few objections were raised against my views, which I had not at least noticed and attempted to answer." (Darwin 1958, 123)" (Ahrens 2017:77)
+
+Source: Ahrens,%20So%CC%88nke%20How%20to%20Take%20Smart%20Notes%20One%20Simple%20%20e14e62b7b1ba48168a82038c9264cb41.md
+Topic: Wissensmanagement
+Type: Quote

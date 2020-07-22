@@ -1,0 +1,1 @@
+# Ayers, Phoebe, Charles Matthews, und Ben Yates. How Wikipedia Works: And How You Can Be a Part of It. San Francisco: No Starch Press, 2008.

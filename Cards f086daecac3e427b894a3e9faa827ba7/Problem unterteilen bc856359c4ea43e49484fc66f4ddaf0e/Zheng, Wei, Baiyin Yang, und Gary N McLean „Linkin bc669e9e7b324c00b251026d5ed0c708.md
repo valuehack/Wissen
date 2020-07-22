@@ -1,0 +1,1 @@
+# Zheng, Wei, Baiyin Yang, und Gary N. McLean. „Linking Organizational Culture, Structure, Strategy, and Organizational Effectiveness: Mediating Role of Knowledge Management“. Journal of Business Research 63, Nr. 7 (Juli 2010): 763–71. https://doi.org/10.1016/j.jbusres.2009.06.005.
