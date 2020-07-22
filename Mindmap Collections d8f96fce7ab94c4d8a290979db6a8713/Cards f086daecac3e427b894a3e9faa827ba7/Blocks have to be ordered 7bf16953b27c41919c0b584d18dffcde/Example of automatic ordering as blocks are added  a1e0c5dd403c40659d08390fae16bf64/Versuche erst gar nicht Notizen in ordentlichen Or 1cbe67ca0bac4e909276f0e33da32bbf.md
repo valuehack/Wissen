@@ -1,1 +1,0 @@
-# "Versuche erst gar nicht Notizen in ordentlichen Ordnern oder in eindeutigen vorgefassten Kategorien abzulegen. , es gibt in einem Zettelkasten „keine privilegierten Positionen" und „es gibt kein Oben und kein Unten". Die Organisation entwickelt sich organisch." (Clear 2020:11)

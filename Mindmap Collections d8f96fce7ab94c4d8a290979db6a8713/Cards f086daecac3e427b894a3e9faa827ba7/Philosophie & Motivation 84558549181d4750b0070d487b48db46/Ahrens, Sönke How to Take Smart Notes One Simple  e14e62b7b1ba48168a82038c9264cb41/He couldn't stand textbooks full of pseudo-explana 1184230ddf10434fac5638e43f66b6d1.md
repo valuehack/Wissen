@@ -1,1 +1,0 @@
-# "He couldn't stand textbooks full of pseudo-explanations (Feynman 1985) and teachers who tried to make learning easier for students by using artificial "real-life" examples instead of using their actual prior understanding as a connection point (Feynman 1963)." (Ahrens 2017:98)

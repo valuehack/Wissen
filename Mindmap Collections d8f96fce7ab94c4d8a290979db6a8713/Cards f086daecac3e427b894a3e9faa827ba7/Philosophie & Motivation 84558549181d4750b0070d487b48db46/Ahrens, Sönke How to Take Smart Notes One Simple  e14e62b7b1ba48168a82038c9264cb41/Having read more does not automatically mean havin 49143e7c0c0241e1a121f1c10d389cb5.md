@@ -1,1 +1,0 @@
-# "Having read more does not automatically mean having more ideas. Especially in the beginning, it means having fewer ideas to work with, because you know that others have already thought of most of them." (Ahrens 2017:13)

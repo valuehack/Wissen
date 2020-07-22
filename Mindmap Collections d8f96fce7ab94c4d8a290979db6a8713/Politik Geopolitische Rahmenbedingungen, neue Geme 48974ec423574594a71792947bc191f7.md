@@ -1,1 +1,0 @@
-# Politik: Geopolitische Rahmenbedingungen, neue Gemeinschaften und Städte

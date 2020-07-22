@@ -1,1 +1,0 @@
-# "It's also the fact that many of these tools are built on top of a graph database. To acquire exponential returns on knowledge, we will need to be able to navigate and manipulate exponentially large datasets." (Tang 2020:2)

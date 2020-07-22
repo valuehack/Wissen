@@ -1,1 +1,0 @@
-# Eghbal, Nadia. „The independent researcher“. Nadia Eghbal (blog), 27. Juni 2018. https://nadiaeghbal.com/independent-research.

@@ -1,3 +1,0 @@
-# Kollaborative Wissensgenerierung
-
-[Kaplan, Andreas, und Michael Haenlein. „Collaborative Projects (Social Media Application): About Wikipedia, the Free Encyclopedia“. Business Horizons 57, Nr. 5 (September 2014): 617–26. [https://doi.org/10.1016/j.bushor.2014.05.004](https://doi.org/10.1016/j.bushor.2014.05.004).](Kollaborative%20Wissensgenerierung%205d050bbcc45f4d71aa31595a528bd5c1/Kaplan,%20Andreas,%20und%20Michael%20Haenlein%20%E2%80%9ECollaborati%2019ab30076d654027810f32aaea087097.md)

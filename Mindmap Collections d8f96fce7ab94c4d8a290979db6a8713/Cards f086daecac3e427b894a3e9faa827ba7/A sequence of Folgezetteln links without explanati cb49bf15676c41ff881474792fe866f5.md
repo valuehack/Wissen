@@ -1,5 +1,0 @@
-# "A sequence of Folgezetteln links without explanation. They simple "belong together". This can provide a posivitve freedom of association but can also become a constraint, just like placing files in folders. A direct link on the other hand can also contain an explanation of how come the association arose in the first place. It is up to the author to choose what is a sufficient reason for a link. The primary argument for maintaining sequences of Folgezetteln so far seem to be that they provide a visual overview of links at the level of file browsing, search and listing of notes. This is a argument that is based upon lack of tools and methods to otherwise accomplish the same overview and is therefor a compromise of the Zettelkasten system." (Eriksson 2015:6)
-
-Source: Eriksson,%20Magnus%20%E2%80%9ELiving%20with%20a%20Zettelkasten%E2%80%9C%20Blay%200873c1404e5f494abd892981454b0236.md
-Topic: Wissensmanagement
-Type: Quote

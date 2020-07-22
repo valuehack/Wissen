@@ -1,1 +1,0 @@
-# Jemielniak, Dariusz. Common Knowledge? An Ethnography of Wikipedia. Stanford, California: Stanford University Press, 2014.

@@ -1,1 +1,0 @@
-# "An outline in the context of a Zettelkasten system is an index of a sequence of Zettelns that create a story, or a narrative, or an argument." (Eriksson 2015:9)

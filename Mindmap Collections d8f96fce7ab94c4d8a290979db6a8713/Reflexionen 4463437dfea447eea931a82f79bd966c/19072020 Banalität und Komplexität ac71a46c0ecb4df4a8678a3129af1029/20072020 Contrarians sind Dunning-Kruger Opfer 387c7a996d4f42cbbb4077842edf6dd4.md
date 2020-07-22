@@ -1,1 +1,0 @@
-# 20072020 Contrarians sind Dunning-Kruger Opfer

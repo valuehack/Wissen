@@ -1,1 +1,0 @@
-# "Some seemingly innovative ideas, like the "learner-centred" approach, often do more harm than good, as they still neglect the need for an external scaffolding to think in. It is not the learner who should be the focus of attention." (Ahrens 2017:135)

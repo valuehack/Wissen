@@ -1,1 +1,0 @@
-# „Daily Rituals: How Artists Work | Mason Currey | download“. Zugegriffen 17. Juli 2020. https://1lib.eu/book/2192912/c6154b.

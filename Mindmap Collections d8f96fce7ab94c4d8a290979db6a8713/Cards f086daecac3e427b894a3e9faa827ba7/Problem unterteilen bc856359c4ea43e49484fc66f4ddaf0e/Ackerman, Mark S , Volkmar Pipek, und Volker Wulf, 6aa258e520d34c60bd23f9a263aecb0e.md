@@ -1,1 +1,0 @@
-# Ackerman, Mark S., Volkmar Pipek, und Volker Wulf, Hrsg. Sharing Expertise: Beyond Knowledge Management. Cambridge, Mass: MIT Press, 2003.

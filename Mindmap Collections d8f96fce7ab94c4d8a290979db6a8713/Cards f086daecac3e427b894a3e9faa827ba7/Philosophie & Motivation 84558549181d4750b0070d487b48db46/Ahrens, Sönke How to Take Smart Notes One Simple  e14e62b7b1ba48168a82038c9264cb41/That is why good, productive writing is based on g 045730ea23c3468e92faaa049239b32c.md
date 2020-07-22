@@ -1,1 +1,0 @@
-# "That is why good, productive writing is based on good note-taking. Getting something that is already written into another written piece is incomparably easier than assembling everything in your mind and then trying to retrieve it from there." (Ahrens 2017:10)

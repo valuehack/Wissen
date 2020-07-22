@@ -1,1 +1,0 @@
-# "We are very dependent on a subconscious mechanism that reliably inhibits almost every memory every moment except the very, very few that are truly helpful in a situation." (Ahrens 2017:94)

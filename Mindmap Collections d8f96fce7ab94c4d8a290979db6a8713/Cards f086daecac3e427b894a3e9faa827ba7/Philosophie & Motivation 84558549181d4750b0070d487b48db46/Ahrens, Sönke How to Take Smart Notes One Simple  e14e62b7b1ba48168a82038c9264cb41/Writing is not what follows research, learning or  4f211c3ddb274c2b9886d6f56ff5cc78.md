@@ -1,1 +1,0 @@
-# "Writing is not what follows research, learning or studying, it is the medium of all this work." (Ahrens 2017:9)

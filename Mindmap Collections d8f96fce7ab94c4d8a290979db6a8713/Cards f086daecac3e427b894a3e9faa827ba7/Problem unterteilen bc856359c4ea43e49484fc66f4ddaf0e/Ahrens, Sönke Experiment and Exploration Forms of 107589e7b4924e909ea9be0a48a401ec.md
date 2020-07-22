@@ -1,1 +1,0 @@
-# Ahrens, Sönke. Experiment and Exploration: Forms of World-Disclosure. Bd. 6. Contemporary Philosophies and Theories in Education. Dordrecht: Springer Netherlands, 2014. https://doi.org/10.1007/978-94-017-8709-3.

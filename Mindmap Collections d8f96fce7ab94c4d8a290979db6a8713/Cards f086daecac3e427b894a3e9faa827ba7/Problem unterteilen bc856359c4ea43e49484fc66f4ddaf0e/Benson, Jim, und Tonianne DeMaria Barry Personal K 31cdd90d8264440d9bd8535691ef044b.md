@@ -1,1 +1,0 @@
-# Benson, Jim, und Tonianne DeMaria Barry. Personal Kanban: Mapping Work Navigating Life. Seattle, Wash: Modus Cooperandi Press, 2011.

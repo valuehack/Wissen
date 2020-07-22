@@ -1,1 +1,0 @@
-# Luhmann, Niklas. „Kommunikation mit Zettelkästen“. In Öffentliche Meinung und sozialer Wandel / Public Opinion and Social Change, herausgegeben von Horst Baier, Hans Mathias Kepplinger, und Kurt Reumann, 222–28. Wiesbaden: VS Verlag für Sozialwissenschaften, 1981. https://doi.org/10.1007/978-3-322-87749-9_19.

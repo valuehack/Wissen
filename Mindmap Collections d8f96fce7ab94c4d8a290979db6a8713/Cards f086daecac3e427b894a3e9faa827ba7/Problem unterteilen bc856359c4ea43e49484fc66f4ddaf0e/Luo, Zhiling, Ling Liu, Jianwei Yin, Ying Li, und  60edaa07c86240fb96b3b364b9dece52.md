@@ -1,1 +1,0 @@
-# Luo, Zhiling, Ling Liu, Jianwei Yin, Ying Li, und Zhaohui Wu. „Deep Learning of Graphs with Ngram Convolutional Neural Networks“. IEEE Transactions on Knowledge and Data Engineering 29, Nr. 10 (1. Oktober 2017): 2125–39. https://doi.org/10.1109/TKDE.2017.2720734.

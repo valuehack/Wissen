@@ -1,1 +1,0 @@
-# Thomas, Rachel. „Providing a Good Education in Deep Learning · fast.ai“. fast.ai (blog), 8. Oktober 2016. https://www.fast.ai/2016/10/08/teaching-philosophy/.

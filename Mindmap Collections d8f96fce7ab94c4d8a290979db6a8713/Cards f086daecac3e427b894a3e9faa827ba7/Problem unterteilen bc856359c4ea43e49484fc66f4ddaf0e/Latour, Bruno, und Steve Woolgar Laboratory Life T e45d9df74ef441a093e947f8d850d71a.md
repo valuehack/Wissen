@@ -1,1 +1,0 @@
-# Latour, Bruno, und Steve Woolgar. Laboratory Life: The Construction of Scientific Facts. Princeton, N.J: Princeton University Press, 1986.

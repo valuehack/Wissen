@@ -1,1 +1,0 @@
-# "If you use the slip-box for a while, you will inevitably make a sobering discovery: The great new idea you are about to add to the slip-box turns out to be already in there. Even worse, chances are this idea wasn't even yours, but someone else's." (Ahrens 2017:107)

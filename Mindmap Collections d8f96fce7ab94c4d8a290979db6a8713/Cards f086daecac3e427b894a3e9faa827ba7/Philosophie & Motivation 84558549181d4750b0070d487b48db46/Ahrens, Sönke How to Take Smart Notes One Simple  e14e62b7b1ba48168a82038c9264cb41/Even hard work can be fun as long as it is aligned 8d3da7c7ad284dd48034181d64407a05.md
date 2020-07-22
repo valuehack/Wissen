@@ -1,1 +1,0 @@
-# "Even hard work can be fun as long as it is aligned with our intrinsic goals and we feel in control. The problems arise when we set up our work in such an inflexible way that we can't adjust it when things change and become arrested in a process that seems to develop a life of its own." (Ahrens 2017:21)

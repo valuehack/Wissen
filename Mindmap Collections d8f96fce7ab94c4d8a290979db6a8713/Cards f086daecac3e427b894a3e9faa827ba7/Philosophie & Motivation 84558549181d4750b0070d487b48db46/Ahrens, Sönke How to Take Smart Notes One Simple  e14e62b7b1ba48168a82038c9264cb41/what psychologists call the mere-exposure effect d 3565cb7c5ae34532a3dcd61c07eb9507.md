@@ -1,1 +1,0 @@
-# "what psychologists call the mere-exposure effect: doing something many times makes us believe we have become good at it - completely independent of our actual performance (Bornstein 1989). We unfortunately tend to confuse familiarity with skill." (Ahrens 2017:59)

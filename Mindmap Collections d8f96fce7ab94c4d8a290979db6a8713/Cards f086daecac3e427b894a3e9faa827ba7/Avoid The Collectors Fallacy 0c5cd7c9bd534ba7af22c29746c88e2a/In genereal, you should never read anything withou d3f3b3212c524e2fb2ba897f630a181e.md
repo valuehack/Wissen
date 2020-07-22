@@ -1,1 +1,0 @@
-# "In genereal, you should never read anything without having an aim of it being integrated into your Zettelkasten. Anything else is a waste of time in the long run." (Eriksson 2015:8)

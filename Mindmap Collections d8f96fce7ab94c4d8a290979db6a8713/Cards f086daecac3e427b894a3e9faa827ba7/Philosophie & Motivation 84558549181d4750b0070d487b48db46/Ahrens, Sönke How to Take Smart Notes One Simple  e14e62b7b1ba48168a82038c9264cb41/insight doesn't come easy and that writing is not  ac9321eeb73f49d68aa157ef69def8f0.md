@@ -1,1 +1,0 @@
-# "insight doesn't come easy and that writing is not only for proclaiming opinions, but the main tool to achieve insight worth sharing." (Ahrens 2017:14)

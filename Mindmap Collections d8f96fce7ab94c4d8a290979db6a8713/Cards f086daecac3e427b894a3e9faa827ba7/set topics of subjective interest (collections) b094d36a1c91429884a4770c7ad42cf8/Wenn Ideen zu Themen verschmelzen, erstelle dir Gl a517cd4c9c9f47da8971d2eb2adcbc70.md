@@ -1,1 +1,0 @@
-# "Wenn Ideen zu Themen verschmelzen, erstelle dir Gliederungsnotizen. Eine Gliederungsnotiz ist eine Notiz, die einfach eine Folge von Links zu anderen Notizen enthält" (Clear 2020:12)

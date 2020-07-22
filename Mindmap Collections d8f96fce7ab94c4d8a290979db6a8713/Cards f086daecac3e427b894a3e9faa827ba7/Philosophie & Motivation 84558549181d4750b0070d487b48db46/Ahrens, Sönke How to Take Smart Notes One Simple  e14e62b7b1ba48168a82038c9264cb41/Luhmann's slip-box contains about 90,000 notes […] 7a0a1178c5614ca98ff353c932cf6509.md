@@ -1,1 +1,0 @@
-# "Luhmann's slip-box contains about 90,000 notes […] it only means that he wrote six notes a day from the day he started to work with his slip-box until he died." (Ahrens 2017:88)

@@ -1,1 +1,0 @@
-# Vergleich der Kommunikation mit dem Zettelkasten

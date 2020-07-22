@@ -1,3 +1,0 @@
-# Sammelverweise
-
-"(b) Sammelverweise: Am Beginn eines thematischen Blocks findet man häufig einen Zettel, auf dem auf eine Reihe anderer Zettel in dem Zettelkasten verwiesen wird, die in einem inhaltlichen Zusammenhang mit dem in der Folge behandelten Thema / Begriff stehen.16 Auf einem solchen Zettel können bis zu 25 Verweise aufgeführt werden, wobei in der Regel jeweils zusätzlich zur Zettelnummer die entsprechenden Begriffe usw. aufgelistet sind. Diese Verweise bieten die Möglichkeit, von einem Punkt aus einen großen Bereich der Sammlung zu erschließen. (Schmidt 2014:8)

@@ -1,1 +1,0 @@
-# Searle, John R. Intentionality, an Essay in the Philosophy of Mind. Cambridge [Cambridgeshire] ; New York: Cambridge University Press, 1983.

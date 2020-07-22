@@ -1,1 +1,0 @@
-# "We learn something not only when we connect it to prior knowledge and try to understand its broader implications (elaboration), but also when we try to retrieve it at different times (spacing) in different contexts (variation), ideally with the help of chance (contextual interference) and with a deliberate effort (retrieval)." (Ahrens 2017:112)

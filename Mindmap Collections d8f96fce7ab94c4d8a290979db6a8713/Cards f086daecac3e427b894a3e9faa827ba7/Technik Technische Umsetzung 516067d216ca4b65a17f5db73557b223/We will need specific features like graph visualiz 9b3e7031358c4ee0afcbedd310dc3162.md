@@ -1,1 +1,0 @@
-# "We will need specific features like graph visualizations as well as an industrial data query language (Datalog) that can represent and operate on thousands if not millions of nodes, blocks, and edges. Knowledge at scale requires a data model that is more robust than a collection of markdown files." (Tang 2020:2)

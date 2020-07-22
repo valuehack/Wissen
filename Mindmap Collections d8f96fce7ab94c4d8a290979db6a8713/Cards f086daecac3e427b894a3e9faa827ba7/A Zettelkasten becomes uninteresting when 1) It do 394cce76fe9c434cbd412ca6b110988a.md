@@ -1,5 +1,0 @@
-# "A Zettelkasten becomes uninteresting when 1) It does not grow, 2) it grows only with isolated notes, 3) it never produces an output. A Zettel does not want to live alone in the Zettelkasten, it wants to find connections, but it also wants to be released from the archive and become part of a directional work. The operations of the Zettelkasten also include recursive heuristic operations on the Zettelns in the archive where they are linked, commented on or expanded upon. These operations make gaps in the information in the Zettelkasten apparent which also directs the input function of the Zettelkasten, leading to the active search of pieces of information. References, highlights, pinboard, RSS; all these are outside of the Zettelkasten system but could be considered a part of the outside with reduced complexity for the Zettelkasten compared to the internet as a whole or for that matter the world outside of it." (Eriksson 2015:4)
-
-Source: Eriksson,%20Magnus%20%E2%80%9ELiving%20with%20a%20Zettelkasten%E2%80%9C%20Blay%200873c1404e5f494abd892981454b0236.md
-Topic: Wissensmanagement
-Type: Quote

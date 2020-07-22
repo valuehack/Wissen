@@ -1,1 +1,0 @@
-# Briggs, Jonathan. Getting Things Done: Simple Guide To Become More Productive, Stress-Free, Get More Done in Less Time, and Be Highly Effective Today. XMS Publishing, 2013.

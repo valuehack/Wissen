@@ -1,1 +1,0 @@
-# Proffitt, Merrilee. „Leveraging Wikipedia: Connecting Communities of Knowledge“, o. J., 273.

@@ -1,1 +1,0 @@
-# ———. Step-by-step to SuperMemo mastery - SuperMemo Help, o. J.

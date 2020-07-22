@@ -1,1 +1,0 @@
-# Erz, Hendrik. Zettlr - A Markdown Editor for the 21st Century. Zugegriffen 10. Juli 2020. https://zettlr.com.

@@ -1,1 +1,0 @@
-# "We cannot help but think about more than one question at a time and the chances are that you will think and write in the future as well. It might not be for academia or a publication, but certainly for your own intellectual growth." (Ahrens 2017:29)

@@ -1,1 +1,0 @@
-# Vergleich der Zetteltypen

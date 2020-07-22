@@ -1,1 +1,0 @@
-# "Reading, especially rereading, can easily fool us into believing we understand a text. Rereading is especially dangerous because of the mereexposure effect: The moment we become familiar with something, we start believing we also understand it. On top of that, we also tend to like it more" (Ahrens 2017:81)

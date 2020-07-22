@@ -1,1 +1,0 @@
-# "Extracting the gist of a text or an idea and giving an account in writing is for academics what daily practice on the piano is for pianists" (Ahrens 2017:79)

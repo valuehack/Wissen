@@ -1,1 +1,0 @@
-# "Outlines are composed of movable parts, as opposed to finished paragraphs and blocks of texts. Hierarchy creates context. You can see the structure of the ideas you employ. You can attach research notes as references as they are at first instead of embedding them in the text immediately." (Tietze 2014:2)

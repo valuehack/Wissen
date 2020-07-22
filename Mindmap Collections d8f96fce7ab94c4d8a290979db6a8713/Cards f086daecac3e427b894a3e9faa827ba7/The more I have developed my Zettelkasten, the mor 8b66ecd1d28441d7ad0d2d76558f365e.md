@@ -1,1 +1,0 @@
-# "The more I have developed my Zettelkasten, the more I have come to rely on opportunistic presentation of information instead of hierarchical, logical structure. The Zettelns have some structure and many connections, but it is really the scripts that bring it alive." (Eriksson 2015:8)

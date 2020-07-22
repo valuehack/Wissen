@@ -1,1 +1,0 @@
-# "there is no measurable correlation between a high IQ and academic success - at least not north of 120. […] What does make a significant difference along the whole intelligence spectrum is something else: how much self-discipline or self-control one uses to approach the tasks at hand" (Ahrens 2017:10)
