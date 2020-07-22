@@ -1,0 +1,1 @@
+# "the everyday note-taking that takes up the biggest chunk of our writing." (Ahrens 2017:8)

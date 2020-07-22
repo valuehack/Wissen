@@ -1,0 +1,3 @@
+# z. B. trifft ein Mediziner für den durchschnittlichen Patienten, eine ausreichend gute Behandlung. Der Vorteil/Nachteil des Patienten jedoch ist, dass er sich selbst am besten kennt.
+
+[Es ist wahrscheinlich, dass der Patient einen egozentristischen Bias hat](z%20B%20trifft%20ein%20Mediziner%20fu%CC%88r%20den%20durchschnittlich%203fc50f4084b34f42a8314f7792c4405c/Es%20ist%20wahrscheinlich,%20dass%20der%20Patient%20einen%20egoz%206a22c19265824e8187015e2aaf78d91a.md)

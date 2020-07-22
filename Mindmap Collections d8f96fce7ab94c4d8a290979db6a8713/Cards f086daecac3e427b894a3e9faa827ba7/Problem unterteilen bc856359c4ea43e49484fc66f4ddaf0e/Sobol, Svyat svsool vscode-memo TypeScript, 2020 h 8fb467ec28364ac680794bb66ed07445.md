@@ -1,0 +1,1 @@
+# Sobol, Svyat. svsool/vscode-memo. TypeScript, 2020. https://github.com/svsool/vscode-memo.

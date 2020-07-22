@@ -1,0 +1,1 @@
+# "Literature notes are short and meant to help with writing slip-box notes. Everything else either helps to get to this point or is a distraction." (Ahrens 2017:74)

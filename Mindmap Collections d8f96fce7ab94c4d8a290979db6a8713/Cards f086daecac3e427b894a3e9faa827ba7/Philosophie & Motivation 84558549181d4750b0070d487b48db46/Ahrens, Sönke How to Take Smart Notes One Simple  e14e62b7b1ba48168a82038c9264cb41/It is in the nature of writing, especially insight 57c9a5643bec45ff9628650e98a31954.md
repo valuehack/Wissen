@@ -1,0 +1,1 @@
+# "It is in the nature of writing, especially insight-oriented writing, that questions change, the material we work with turns out to be very different from the one imagined or that new ideas emerge, which might change our whole perspective on what we do." (Ahrens 2017:21)

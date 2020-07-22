@@ -1,0 +1,1 @@
+# Adler, Mortimer Jerome, und Charles Lincoln Van Doren. How to Read a Book. Rev. and Updated ed. New York: Simon and Schuster, 1972.

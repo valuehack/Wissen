@@ -1,0 +1,1 @@
+# Schmidt, Johannes F. K. „Der Nachlass Niklas Luhmanns – eine erste Sichtung: Zettelkasten und Manuskripte“. Soziale Systeme 19, Nr. 1 (1. Januar 2014). https://doi.org/10.1515/sosys-2014-0111.

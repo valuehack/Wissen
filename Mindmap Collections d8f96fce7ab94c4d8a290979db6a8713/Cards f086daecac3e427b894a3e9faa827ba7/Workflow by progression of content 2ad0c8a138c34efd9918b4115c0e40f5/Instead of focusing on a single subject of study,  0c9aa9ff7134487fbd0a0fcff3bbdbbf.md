@@ -1,0 +1,1 @@
+# "Instead of focusing on a single subject of study, the student will review dozens of subject areas in a single day. Instead of monopolizing his or her knowledge with a single area of expertise, he or she will harmoniously deepen all facets of his knowledge in proportion to needs and/or interests." (Wozniak :36)

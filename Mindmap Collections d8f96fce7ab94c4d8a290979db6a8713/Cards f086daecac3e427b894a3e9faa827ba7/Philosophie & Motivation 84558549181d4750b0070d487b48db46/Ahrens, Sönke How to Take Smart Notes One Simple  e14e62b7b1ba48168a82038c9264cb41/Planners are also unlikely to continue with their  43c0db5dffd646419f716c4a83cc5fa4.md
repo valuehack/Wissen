@@ -1,0 +1,1 @@
+# "Planners are also unlikely to continue with their studies after they finish their examinations. They are rather glad it is over. Experts, on the other hand, would not even consider voluntarily giving up what has already proved to be rewarding and fun: learning in a way that generates real insight, is accumulative and sparks new ideas." (Ahrens 2017:13)

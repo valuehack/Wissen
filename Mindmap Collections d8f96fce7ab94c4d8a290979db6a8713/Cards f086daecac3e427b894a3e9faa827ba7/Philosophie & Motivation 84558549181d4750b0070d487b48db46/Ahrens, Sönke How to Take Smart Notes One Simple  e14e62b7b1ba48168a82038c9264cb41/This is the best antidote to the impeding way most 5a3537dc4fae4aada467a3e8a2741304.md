@@ -1,0 +1,1 @@
+# "This is the best antidote to the impeding way most information is given to us in our learning institutions. Most often, it comes in modular form, sorted by topic, separated by disciplines and generally isolated from other information. The slip-box is forcing us to do the exact opposite: To elaborate, to understand, to connect and therefore to learn seriously." (Ahrens 2017:99)

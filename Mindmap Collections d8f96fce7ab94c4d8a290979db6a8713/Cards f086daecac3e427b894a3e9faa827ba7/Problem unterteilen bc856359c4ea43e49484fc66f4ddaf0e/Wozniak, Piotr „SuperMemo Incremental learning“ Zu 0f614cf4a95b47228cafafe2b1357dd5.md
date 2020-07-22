@@ -1,0 +1,1 @@
+# Wozniak, Piotr. „SuperMemo: Incremental learning“. Zugegriffen 13. Juli 2020. http://super-memory.com/help/il.htm#What_is_incremental_learning.3F.

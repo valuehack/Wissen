@@ -1,0 +1,1 @@
+# "Every intellectual endeavour starts with a note. Writing plays such a central role in learning, studying and research that it is surprising how little we think about it." (Ahrens 2017:8)

@@ -1,0 +1,1 @@
+# ResearchHub. „ResearchHub | Open Science Community“. Zugegriffen 14. Juli 2020. https://www.researchhub.com/.

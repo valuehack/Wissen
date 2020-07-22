@@ -1,0 +1,1 @@
+# "Because the slip-box is not intended to be an encyclopaedia, but a tool to think with, we don't need to worry about completeness. We don't need to write anything down just to bridge a gap in a note sequence. We only write if it helps us with our own thinking." (Ahrens 2017:101)

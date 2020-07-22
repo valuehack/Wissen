@@ -1,0 +1,1 @@
+# "Learning, thinking and writing should not be about accumulating knowledge, but about becoming a different person with a different way of thinking. This is done by questioning one's own thinking routines in the light of new experiences and facts." (Ahrens 2017:136)

@@ -1,0 +1,1 @@
+# ———. „Why Categories for Your Note Archive Are a Bad Idea“. Zettelkasten Method (blog), 16. Mai 2015. https://www.zettelkasten.de/posts/no-categories/.

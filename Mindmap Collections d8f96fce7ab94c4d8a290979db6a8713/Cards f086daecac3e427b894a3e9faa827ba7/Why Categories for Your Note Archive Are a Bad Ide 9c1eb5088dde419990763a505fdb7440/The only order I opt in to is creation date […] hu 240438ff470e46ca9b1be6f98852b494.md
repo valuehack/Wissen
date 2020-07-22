@@ -1,0 +1,1 @@
+# "The only order I opt in to is creation date. […] humans remember the time of an event well, so you should order material by its date. I wanted a quick and low-tech way to answer queries like "What did I do in Spring 2011?" - Preceding dates achieve just that. That's it. But I could do without it easily." (Tietze 2015:3)

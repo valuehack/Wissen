@@ -1,0 +1,1 @@
+# "throughout human history, shared taxonomies have proven useful. […] Categorizing stuff is helpful to coordinate efforts, and it's a must to make any coordinated division of labor possible." (Tietze 2015:1)

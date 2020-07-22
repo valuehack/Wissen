@@ -1,0 +1,1 @@
+# "Even doctoral students sometimes just collect de-contextualised quotes from a text - probably the worst possible approach to research imaginable. This makes it almost impossible to understand the actual meaning of information […] what Luhmann recommends: Writing brief accounts on the main ideas of a text instead of collecting quotes." (Ahrens 2017:86)

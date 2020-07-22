@@ -1,0 +1,1 @@
+# Krajewski, Markus. World Projects: Global Information before World War I. Electronic Mediations 45. Minneapolis: University of Minnesota Press, 2014.

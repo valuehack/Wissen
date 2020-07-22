@@ -1,0 +1,1 @@
+# "Writing is not a linear process. We constantly have to jump back and forth between different tasks. It wouldn't make any sense to micromanage ourselves on that level. Zooming out to the bigger picture does not really help, either, because then we have next steps like "writing a page."" (Ahrens 2017:17)

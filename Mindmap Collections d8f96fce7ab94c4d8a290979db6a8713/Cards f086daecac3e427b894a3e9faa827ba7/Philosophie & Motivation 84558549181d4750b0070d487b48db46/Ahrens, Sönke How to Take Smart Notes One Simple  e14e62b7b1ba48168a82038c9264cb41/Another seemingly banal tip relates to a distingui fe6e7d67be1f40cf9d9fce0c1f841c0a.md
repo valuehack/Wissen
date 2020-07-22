@@ -1,0 +1,1 @@
+# "Another seemingly banal tip relates to a distinguishing feature of extraordinary thinkers: Taking simple ideas seriously. […] Sometimes the breakthrough in a scientific process is the discovery of a simple principle behind a seemingly very complicated process." (Ahrens 2017:119)

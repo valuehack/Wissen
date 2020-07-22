@@ -1,0 +1,1 @@
+# "11 Hochkulturen. Wie die Auflistung bereits deutlich macht, handelt es sich bei dieser Ordnungsstruktur nicht um eine Systematik im strengen Sinne, sie ist vielmehr (insbesondere für die Punkte 1 bis 5) ein historisches Produkt der Lektüreund Forschungsinteressen Luhmanns.12" (Schmidt 2014:6)

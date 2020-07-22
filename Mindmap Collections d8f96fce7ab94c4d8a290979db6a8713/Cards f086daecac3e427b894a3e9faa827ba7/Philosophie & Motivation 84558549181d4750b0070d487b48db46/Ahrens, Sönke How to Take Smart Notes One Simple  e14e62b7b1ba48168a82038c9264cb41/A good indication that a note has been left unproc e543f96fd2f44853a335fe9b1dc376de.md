@@ -1,0 +1,1 @@
+# "A good indication that a note has been left unprocessed too long is when you no longer understand what you meant or it appears banal." (Ahrens 2017:45)

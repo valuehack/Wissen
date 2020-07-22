@@ -1,0 +1,1 @@
+# Clear, David B. „Zettelkasten — Wie Ein Deutscher Gelehrter so Unglaublich Produktiv War“. Medium (blog), 4. Juli 2020. https://medium.com/@davidbclear/zettelkasten-wie-ein-deutscher-gelehrter-so-unglaublich-produktiv-war-b3d29385f103.
