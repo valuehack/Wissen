@@ -1,0 +1,1 @@
+# "things are labeled in a way especially meaningful to you, not anybody else. This is all about personal information management, so personalization is a must, and increasing idiosyncrasy will likely make things better." (Tietze 2015:3)

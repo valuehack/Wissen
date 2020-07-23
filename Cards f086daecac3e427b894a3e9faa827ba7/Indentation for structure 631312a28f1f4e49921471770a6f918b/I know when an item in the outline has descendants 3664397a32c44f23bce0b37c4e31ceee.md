@@ -1,0 +1,1 @@
+# "I know when an item in the outline has descendants, I will have move them, too, because descendants belong to their ancestral item. Moreover, the relationship from the item I want to extract to its ancestor provides context information I may have to provide again when I move it." (Tietze 2014:2)

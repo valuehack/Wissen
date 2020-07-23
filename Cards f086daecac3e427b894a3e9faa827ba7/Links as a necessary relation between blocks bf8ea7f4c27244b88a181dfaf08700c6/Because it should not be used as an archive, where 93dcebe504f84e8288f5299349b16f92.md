@@ -1,0 +1,1 @@
+# "Because it should not be used as an archive, where we just take out what we put in, but as a system to think with, the references between the notes are much more important than the references from the index to a single note. […] liberating our brains from the task of organizing the notes is the main reason we use the slip-box in the first place." (Ahrens 2017:102)

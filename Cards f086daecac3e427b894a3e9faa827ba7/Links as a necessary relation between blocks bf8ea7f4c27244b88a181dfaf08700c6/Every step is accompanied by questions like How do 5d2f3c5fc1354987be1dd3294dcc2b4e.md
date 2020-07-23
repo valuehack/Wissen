@@ -1,0 +1,1 @@
+# "Every step is accompanied by questions like: How does this fact fit into my idea of ...? How can this phenomenon be explained by that theory? Are these two ideas contradictory or do they complement each other? Isn't this argument similar to that one? Haven't I heard this before? And above all: What does x mean for y?" (Ahrens 2017:67)

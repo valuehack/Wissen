@@ -1,0 +1,5 @@
+# Über die Entwicklung des Zettelkastens
+
+["(a) eine frühe Sammlung (ZK I), die Einträge aus den Jahren 1951 bis ca. 1962 (mit sporadischen Einträge insbes. zum Themenkomplex Weltgesellschaft noch bis 1973) auf ca. 23.000 Zetteln in 7 Auszügen versammelt." (Schmidt 2014:3)](U%CC%88ber%20die%20Entwicklung%20des%20Zettelkastens%201d5d7753cad34d8a944175f5ba3bb85a/(a)%20eine%20fru%CC%88he%20Sammlung%20(ZK%20I),%20die%20Eintra%CC%88ge%20aus%20c83f7e05f8f14630953a36a9c27a39af.md)
+
+["(b) eine spätere Sammlung (ZK II), die in der Zeit von 1963 bis 1996 erstellt worden ist und damit den Großteil der Luhmannschen Publikationsperiode abdeckt. Sie ist durch einen eindeutig soziologischen Zugriff gekennzeichnet - was wohl auch der Grund dafür sein dürfte, dass Luhmann eine neue Sammlung erstellt hatte, bei der die Zählung der Zettel wieder bei 1 beginnt.5 Diese Sammlung besteht 21 Auszügen mit insgesamt ca. 67.000 Zetteln." (Schmidt 2014:3)](U%CC%88ber%20die%20Entwicklung%20des%20Zettelkastens%201d5d7753cad34d8a944175f5ba3bb85a/(b)%20eine%20spa%CC%88tere%20Sammlung%20(ZK%20II),%20die%20in%20der%20Zei%20b2ed7a662758419ba13462f00f4d20ec.md)

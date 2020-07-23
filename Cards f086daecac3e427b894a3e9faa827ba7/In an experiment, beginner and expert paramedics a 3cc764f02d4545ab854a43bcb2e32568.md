@@ -1,0 +1,5 @@
+# "In an experiment, beginner and expert paramedics and their teachers were shown scenes of CPR performed by either experienced paramedics or those who had just finished their training (Flyvbjerg 2001). [19] As you might expect, the experienced paramedics were able to spot their kind correctly in almost all cases (~90%), while the beginners were more or less just guessing (~50%). So far, so good. But when the teachers watched the videos, they systematically mistook the beginners for experts and the experts for beginners. They were wrong in most of the cases (and only right in about a third of all the cases). Hubert and Stuart Dreyfus, researchers on expertise, have a simple explanation: Teachers tend to mistake the ability to follow (their) rules with the ability to make the right choices in real situations. […] Because trainees lack the experience to judge a situation correctly and confidently, they need to stick to the rules they were taught, much to the delight of their teachers." (Ahrens 2017:65)
+
+Source: Ahrens,%20So%CC%88nke%20How%20to%20Take%20Smart%20Notes%20One%20Simple%20%20e14e62b7b1ba48168a82038c9264cb41.md
+Topic: Wissensmanagement
+Type: Quote

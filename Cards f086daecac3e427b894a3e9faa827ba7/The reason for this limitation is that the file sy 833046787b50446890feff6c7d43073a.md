@@ -1,0 +1,5 @@
+# "The reason for this limitation is that the file system as a framework for data handling is itself a metaphor based on a paper based file handling system in which Folgezetteln makes sense. The idea that "in the end", a Zettelkasten consist of a folder where each Zettel is a file in a file system is a limiting metaphor compared to a dynamic database that can arbitrarily construct relations between data. The follow up question is if the paper based metaphor is a proper fit with a human cognitive processing system - that is, the brain - and should therefor be kept to provide easy organisation, or is it is a historical residue that can - and should - be replaced by a dynamic relational database." (Eriksson 2015:6)
+
+Source: Eriksson,%20Magnus%20%E2%80%9ELiving%20with%20a%20Zettelkasten%E2%80%9C%20Blay%200873c1404e5f494abd892981454b0236.md
+Topic: Wissensmanagement
+Type: Quote

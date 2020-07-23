@@ -1,0 +1,1 @@
+# „Git for Zettelkasten“. Zugegriffen 16. Juli 2020. http://www.dansheffler.com/blog/2015-09-10-git-for-zettelkasten/.

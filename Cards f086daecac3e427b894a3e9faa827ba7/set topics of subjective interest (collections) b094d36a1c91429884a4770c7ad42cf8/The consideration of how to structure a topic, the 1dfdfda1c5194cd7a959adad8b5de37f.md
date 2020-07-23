@@ -1,0 +1,1 @@
+# "The consideration of how to structure a topic, therefore, belongs on notes as well - and not on a meta-hierarchical level. We can provide ourselves with a (temporarily valid) overview over a topic or subtopic just by making another note." (Ahrens 2017:103)

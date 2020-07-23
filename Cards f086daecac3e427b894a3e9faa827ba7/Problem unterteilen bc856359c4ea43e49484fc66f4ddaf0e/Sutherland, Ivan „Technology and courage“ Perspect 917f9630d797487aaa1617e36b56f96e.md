@@ -1,0 +1,1 @@
+# Sutherland, Ivan. „Technology and courage“. Perspectives 96 (1996): 1.

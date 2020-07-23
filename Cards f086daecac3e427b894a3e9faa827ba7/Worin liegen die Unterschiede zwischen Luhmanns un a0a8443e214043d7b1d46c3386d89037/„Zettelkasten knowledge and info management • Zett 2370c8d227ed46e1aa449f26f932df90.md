@@ -1,0 +1,1 @@
+# „Zettelkasten knowledge and info management • Zettelkasten Method“. Zugegriffen 10. Juli 2020. https://zettelkasten.de/.

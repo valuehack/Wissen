@@ -1,0 +1,1 @@
+# "What makes Tools for Networked Thought different from normal Tools for Thought is that they have bi-directional links and transclusions (which are just richer bi-directional links)." (Tang 2020:2)

@@ -1,0 +1,1 @@
+# Zettelkasten (nach Niklas Luhmann) - Neues in Version 3. Zugegriffen 16. Juli 2020. http://zettelkasten.danielluedecke.de/zkn3.php.

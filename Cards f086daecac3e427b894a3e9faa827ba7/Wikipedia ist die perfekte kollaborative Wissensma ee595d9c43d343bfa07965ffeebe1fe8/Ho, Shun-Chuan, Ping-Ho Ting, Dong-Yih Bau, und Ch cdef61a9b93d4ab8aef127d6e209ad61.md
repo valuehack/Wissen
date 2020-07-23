@@ -1,0 +1,1 @@
+# Ho, Shun-Chuan, Ping-Ho Ting, Dong-Yih Bau, und Chun-Chung Wei. „Knowledge-Sharing Intention in a Virtual Community: A Study of Participants in the Chinese Wikipedia“. Cyberpsychology, Behavior, and Social Networking 14, Nr. 9 (September 2011): 541–45. https://doi.org/10.1089/cyber.2010.0106.

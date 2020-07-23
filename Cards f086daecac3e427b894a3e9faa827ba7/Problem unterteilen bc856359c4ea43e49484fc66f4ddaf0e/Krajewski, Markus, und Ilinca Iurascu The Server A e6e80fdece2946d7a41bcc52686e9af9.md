@@ -1,0 +1,1 @@
+# Krajewski, Markus, und Ilinca Iurascu. The Server: A Media History from the Present to the Baroque. New Haven: Yale University Press, 2018.

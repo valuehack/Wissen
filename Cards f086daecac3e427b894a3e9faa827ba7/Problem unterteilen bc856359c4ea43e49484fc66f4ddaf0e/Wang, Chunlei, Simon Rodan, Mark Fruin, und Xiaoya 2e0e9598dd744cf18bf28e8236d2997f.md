@@ -1,0 +1,1 @@
+# Wang, Chunlei, Simon Rodan, Mark Fruin, und Xiaoyan Xu. „Knowledge Networks, Collaboration Networks, and Exploratory Innovation“. Academy of Management Journal 57, Nr. 2 (April 2014): 484–514. https://doi.org/10.5465/amj.2011.0917.

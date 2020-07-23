@@ -1,0 +1,1 @@
+# Hew, Khe Foon, und Noriko Hara. „Knowledge Sharing in Online Environments: A Qualitative Case Study“. Journal of the American Society for Information Science and Technology 58, Nr. 14 (Dezember 2007): 2310–24. https://doi.org/10.1002/asi.20698.

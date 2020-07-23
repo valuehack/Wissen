@@ -1,0 +1,5 @@
+# "As proper note-taking is rarely taught or discussed, it is no wonder that almost every guide on writing recommends to start with brainstorming. If you haven't written along the way, the brain is indeed the only place to turn to. On its own, it is not such a great choice: it is neither objective nor reliable […] The things you are supposed to find in your head by brainstorming usually don't have their origins in there. Rather, they come from the outside: through reading, having discussions and listening to others, through all the things that could have been accompanied and often even would have been improved by writing. The advice to think about what to write about before you write comes both too early and too late. Too late, as you already have passed up the chance to build up written resources when you face the white sheet of paper or the blank screen, but also too early, if you try to postpone every serious content-related work until you have made a decision on the topic." (Ahrens 2017:50)
+
+Source: Ahrens,%20So%CC%88nke%20How%20to%20Take%20Smart%20Notes%20One%20Simple%20%20e14e62b7b1ba48168a82038c9264cb41.md
+Topic: Wissensmanagement
+Type: Quote

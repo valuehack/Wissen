@@ -1,0 +1,1 @@
+# Armstrong, Brian. „Ideas on How to Improve Scientific Research“. Medium (blog), 31. Dezember 2019. https://medium.com/@barmstrong/ideas-on-how-to-improve-scientific-research-9e2e56474132.

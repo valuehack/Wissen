@@ -1,0 +1,1 @@
+# Ratey, John J, und Eric Hagerman. Spark: The Revolutionary New Science of Exercise and the Brain. New York: Little, Brown, 2008. http://search.ebscohost.com/login.aspx?direct=true&scope=site&db=nlebk&db=nlabk&AN=762781.
