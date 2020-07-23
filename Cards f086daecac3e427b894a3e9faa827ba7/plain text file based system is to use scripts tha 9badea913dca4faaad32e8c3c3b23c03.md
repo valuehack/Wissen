@@ -1,5 +1,0 @@
-# "plain text file based system is to use scripts that render outline files. These outline files could follow links in the Zettelkasten - provided that links are unidirectional (which makes sense) - and render indexes of note sequences. This could both be rendered as notes in themselves, or it could be dynamically rendered as STDOUT. A combination of both is preferable. The reason that unidirectional links make sense is that only one of the notes (the linking note) is written with the knowledge of the other note (the linked note). Instead of the linked note also containing a traceback to the linking note, a dynamic index should be possible to render as a list of several note sequences where this note is a part." (Eriksson 2015:7)
-
-Source: Eriksson,%20Magnus%20%E2%80%9ELiving%20with%20a%20Zettelkasten%E2%80%9C%20Blay%200873c1404e5f494abd892981454b0236.md
-Topic: Wissensmanagement
-Type: Quote

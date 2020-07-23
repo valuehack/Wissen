@@ -1,1 +1,0 @@
-# Dickerson, Alexander. „Algorithmic Trading of Bitcoin Using Wikipedia and Google Search Volume“. SSRN Electronic Journal, 2018. https://doi.org/10.2139/ssrn.3177738.

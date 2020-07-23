@@ -1,1 +1,0 @@
-# Whenever he added a note, he checked his slip-box for other relevant notes to make possible connections between them. Adding a note directly behind another note is only one way of doing this. Another way is by adding a link on this and/or the other note, which could be anywhere in the system. (Ahrens 2017: 24)

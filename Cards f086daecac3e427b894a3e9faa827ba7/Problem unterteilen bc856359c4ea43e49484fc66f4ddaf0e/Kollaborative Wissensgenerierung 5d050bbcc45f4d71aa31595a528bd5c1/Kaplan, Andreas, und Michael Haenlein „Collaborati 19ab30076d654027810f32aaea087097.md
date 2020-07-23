@@ -1,1 +1,0 @@
-# Kaplan, Andreas, und Michael Haenlein. „Collaborative Projects (Social Media Application): About Wikipedia, the Free Encyclopedia“. Business Horizons 57, Nr. 5 (September 2014): 617–26. https://doi.org/10.1016/j.bushor.2014.05.004.
