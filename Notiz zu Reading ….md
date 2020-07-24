@@ -1,1 +1,0 @@
-[[Notiz]] zu [[Reading can also be subject to the collectors fall]] Das ist falsch, weil 
