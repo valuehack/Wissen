@@ -8,9 +8,12 @@
     "Backlinks": true,
     "Command palette": true,
     "Markdown format importer": true,
-    "Word count": true
+    "Word count": true,
+    "Tag pane": true
   },
   "alwaysUpdateLinks": true,
-  "fileSortOrder": "byModifiedTimeReverse",
-  "promptDelete": false
+  "fileSortOrder": "alphabetical",
+  "promptDelete": false,
+  "foldHeading": true,
+  "foldIndent": true
 }

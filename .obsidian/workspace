@@ -4,16 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "98317453d40aa711",
-        "type": "leaf",
-        "active": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Quote.md",
-            "mode": "source"
+        "id": "afb230b342e666a5",
+        "type": "split",
+        "children": [
+          {
+            "id": "da977b664230bdd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quotes/Large-scale collaboration requires a more flexible data structure.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "90cadce390acad11",
+            "type": "leaf",
+            "active": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cards from notion/Abstraction is important for application bdbc0122270e464f8331438f145fb24f.md",
+                "mode": "source"
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -54,7 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 720
+    "width": 537
   },
   "right": {
     "id": "e2205a5310624403",
@@ -71,18 +89,27 @@
               "type": "backlink",
               "state": {}
             }
+          },
+          {
+            "id": "92b0e1a7f660777a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "lastOpenFiles": [
-    "Quote.md",
-    "Cards f086daecac3e427b894a3e9faa827ba7/Avoid The Collectors Fallacy 0c5cd7c9bd534ba7af22c29746c88e2a/Reading can also be subject to the collectors fall.md",
-    "Cards f086daecac3e427b894a3e9faa827ba7/Avoid The Collectors Fallacy 0c5cd7c9bd534ba7af22c29746c88e2a/the worst example of a note being the highlight.md",
-    "Cards f086daecac3e427b894a3e9faa827ba7/Avoid The Collectors Fallacy 0c5cd7c9bd534ba7af22c29746c88e2a/In the end, the collectors fallacy relies on a tot 2ba2f44a71e04af7a919c357fdffab29.md",
-    "Cards f086daecac3e427b894a3e9faa827ba7/Avoid The Collectors Fallacy 0c5cd7c9bd534ba7af22c29746c88e2a/In genereal, you should never read anything withou d3f3b3212c524e2fb2ba897f630a181e.md"
+    "Cards f086daecac3e427b894a3e9faa827ba7/Abstraction is important for application bdbc0122270e464f8331438f145fb24f.md",
+    "Cards f086daecac3e427b894a3e9faa827ba7/Abstraction is important for application bdbc0122270e464f8331438f145fb24f/Abstraction does not have a good reputation at the b0afe8748cb2445083d307a6fa105282.md",
+    "Tags.md",
+    "Foam vs Obsidian.md",
+    "foam-tips.md"
   ]
 }
