@@ -1,1 +1,0 @@
-# Bach, Joscha. „Someone run a thought of mine through GPT-3 to expand it into an explanation of what I had in mind, and it’s like 95% meaningful and 90% correct. I don’t think that I have seen a human explanation of my more complicated tweets approaching this accuracy :)“. Twitter (blog), 15. Juli 2020. https://twitter.com/Plinz/status/1283211048145711104.

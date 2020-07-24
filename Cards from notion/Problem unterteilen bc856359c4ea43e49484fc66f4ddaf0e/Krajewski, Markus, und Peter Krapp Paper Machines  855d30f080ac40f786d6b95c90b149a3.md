@@ -1,1 +1,0 @@
-# Krajewski, Markus, und Peter Krapp. Paper Machines: About Cards & Catalogs, 1548-1929. History and Foundations of Information Science. Cambridge, Mass: MIT Press, 2011.

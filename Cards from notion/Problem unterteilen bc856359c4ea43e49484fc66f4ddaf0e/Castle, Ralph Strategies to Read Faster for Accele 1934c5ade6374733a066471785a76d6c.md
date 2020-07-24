@@ -1,1 +1,0 @@
-# Castle, Ralph. Strategies to Read Faster for Accelerated Learning in 12 Hours or Less!, o. J.

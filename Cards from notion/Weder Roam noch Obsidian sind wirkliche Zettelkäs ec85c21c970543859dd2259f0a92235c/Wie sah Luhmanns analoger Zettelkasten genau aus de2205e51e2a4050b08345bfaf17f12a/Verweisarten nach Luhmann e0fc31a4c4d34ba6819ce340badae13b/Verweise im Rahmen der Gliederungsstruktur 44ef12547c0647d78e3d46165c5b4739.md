@@ -1,3 +1,0 @@
-# Verweise im Rahmen der Gliederungsstruktur
-
-(c) Verweise im Rahmen einer Gliederungsstruktur: Hier notiert Luhmann am Beginn eines Themenblocks auf einem Zettel mehrere zu behandelnde Aspekte und markiert diese mit jeweils einem Großbuchstaben, der auf einen entsprechend bezeichneten Zettel (bzw. eine Zettelfolge) verweist, der / die in relativer räumlicher Nähe zu dem Gliederungszettel steht." (Schmidt 2014:8)

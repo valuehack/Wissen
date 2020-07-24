@@ -1,1 +1,0 @@
-# "If you do not like an article, you read just a sentence and jump to other articles. This way your attention and focus stay maximized." (Wozniak :2)

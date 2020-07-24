@@ -1,1 +1,0 @@
-# "aus den 1950er und 60er Jahren häufig noch eher fließtextartige und enger am rezipierten Originaltext orientierte Einträge umfassen, werden die Notizen ab den 1970er Jahren zunehmend thesenartiger und kompakter." (Schmidt 2014:3)

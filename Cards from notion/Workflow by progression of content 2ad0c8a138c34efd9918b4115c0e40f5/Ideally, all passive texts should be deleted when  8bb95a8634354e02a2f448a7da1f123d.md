@@ -1,1 +1,0 @@
-# "Ideally, all passive texts should be deleted when done with." (Wozniak :23)

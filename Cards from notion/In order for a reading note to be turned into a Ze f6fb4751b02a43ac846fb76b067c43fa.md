@@ -1,5 +1,0 @@
-# "In order for a reading note to be turned into a Zettel it must un-stick from the text. It must be able to stand on its own with only a reference to the source text. You need to untangle a note from the web of text it was immersed in. This often involves rephrasing of the arguments in the source text and turning a part of this argument into its own concept. Rephrasing key arguments is a great way to integrate the knowledge and to have notes that you can rely on so you don't have to go back to the source text again. Using examples is also a way of getting the text to work for you creatively. A typical Zettel can contain the following elements: 1. A compact key statement. 2. An elaboration of the concept. 3. An example you came up with." ([[Eriksson 2015]]:2)
-
-Source: Eriksson,%20Magnus%20%E2%80%9ELiving%20with%20a%20Zettelkasten%E2%80%9C%20Blay%200873c1404e5f494abd892981454b0236.md
-Topic: Wissensmanagement
-Type: Quote

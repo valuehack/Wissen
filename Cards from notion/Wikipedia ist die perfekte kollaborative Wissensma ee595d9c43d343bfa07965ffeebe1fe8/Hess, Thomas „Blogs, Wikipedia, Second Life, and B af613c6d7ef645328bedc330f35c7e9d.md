@@ -1,1 +1,0 @@
-# Hess, Thomas. „Blogs, Wikipedia, Second Life, and Beyond—From Production to Produsage“. International Journal on Media Management 11, Nr. 3–4 (16. November 2009): 155–56. https://doi.org/10.1080/14241270903047339.

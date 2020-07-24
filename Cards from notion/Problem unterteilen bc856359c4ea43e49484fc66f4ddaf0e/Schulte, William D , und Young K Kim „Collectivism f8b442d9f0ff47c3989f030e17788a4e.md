@@ -1,1 +1,0 @@
-# Schulte, William D., und Young K. Kim. „Collectivism and Expected Benefits of Knowledge Management: A Comparison of Taiwanese and US Perceptions“. Competitiveness Review 17, Nr. 1/2 (März 2007): 109–17. https://doi.org/10.1108/10595420710816650.

@@ -1,1 +1,0 @@
-# "Luhmann would add the number of one or two (rarely more) notes next to a keyword in the index" (Ahrens 2017:102)

@@ -1,1 +1,0 @@
-# Zhuge, Hai. „A Knowledge Grid Model and Platform for Global Knowledge Sharingq“. Expert Systems with Applications, 2002, 8.

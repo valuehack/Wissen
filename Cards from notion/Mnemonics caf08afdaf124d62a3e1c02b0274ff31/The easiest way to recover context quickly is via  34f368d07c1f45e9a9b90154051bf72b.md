@@ -1,1 +1,0 @@
-# "The easiest way to recover context quickly is via references. References propagate from element to element as you produce extracts and cloze deletions. With all child elements produced from a given text marked with references, you would never need to worry about losing the context of the question." (Wozniak :7)

@@ -1,1 +1,0 @@
-# Shapin, Steven. The Scientific Revolution, o. J.

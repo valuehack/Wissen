@@ -1,1 +1,0 @@
-# Englebart, Douglas C. „Improving our ability to improve: A call for investment in a new future“. In IBM Co-Evolution Symposium, 2003.

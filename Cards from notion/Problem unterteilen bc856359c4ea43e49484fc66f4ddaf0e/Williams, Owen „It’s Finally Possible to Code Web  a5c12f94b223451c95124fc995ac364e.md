@@ -1,1 +1,0 @@
-# Williams, Owen. „It’s Finally Possible to Code Web Apps on an IPad Pro“. Medium (blog), 4. Juni 2019. https://medium.com/@ow/its-finally-possible-to-code-web-apps-on-an-ipad-pro-90ad9c1fb59a.

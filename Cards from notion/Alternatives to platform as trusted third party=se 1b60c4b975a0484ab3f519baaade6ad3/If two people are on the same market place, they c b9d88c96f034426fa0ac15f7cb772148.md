@@ -1,3 +1,0 @@
-# If two people are on the same market place, they could show each other their respective reputation on another market place: whereby they verify each other with a tool and the respective reputation is revealed
-
-[Reputation has to be linked to one market place and one type of interaction, otherwise it is meaningless](If%20two%20people%20are%20on%20the%20same%20market%20place,%20they%20c%20b9d88c96f034426fa0ac15f7cb772148/Reputation%20has%20to%20be%20linked%20to%20one%20market%20place%20an%208156bad279cf49f6a636dc4379d87108.md)

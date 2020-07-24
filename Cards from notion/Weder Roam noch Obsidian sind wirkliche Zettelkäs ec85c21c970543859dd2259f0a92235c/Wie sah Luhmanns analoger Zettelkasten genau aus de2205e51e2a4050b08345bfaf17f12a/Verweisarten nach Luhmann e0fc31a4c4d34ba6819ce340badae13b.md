@@ -1,7 +1,0 @@
-# Verweisarten nach Luhmann
-
-[Einzelverweise](Verweisarten%20nach%20Luhmann%20e0fc31a4c4d34ba6819ce340badae13b/Einzelverweise%205735a10a7248422e94f553cbaff59f35.md)
-
-[Sammelverweise](Verweisarten%20nach%20Luhmann%20e0fc31a4c4d34ba6819ce340badae13b/Sammelverweise%20150b3bf577c34a0c98f8aa91eadda82c.md)
-
-[Verweise im Rahmen der Gliederungsstruktur](Verweisarten%20nach%20Luhmann%20e0fc31a4c4d34ba6819ce340badae13b/Verweise%20im%20Rahmen%20der%20Gliederungsstruktur%2044ef12547c0647d78e3d46165c5b4739.md)

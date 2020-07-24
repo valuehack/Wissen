@@ -1,1 +1,0 @@
-# "Jede Notiz sollte autonom sein, das heißt sie sollte in sich geschlossen und für sich verständlich sein. . Außerdem wird sichergestellt, dass Notizen auch dann nützlich bleiben, wenn die ursprüngliche Informationsquelle verschwindet." (Clear 2020:11)

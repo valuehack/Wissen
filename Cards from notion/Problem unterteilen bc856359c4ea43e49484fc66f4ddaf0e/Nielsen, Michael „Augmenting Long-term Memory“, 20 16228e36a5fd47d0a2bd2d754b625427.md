@@ -1,1 +1,0 @@
-# Nielsen, Michael. „Augmenting Long-term Memory“, 2018. http://augmentingcognition.com/ltm.html.

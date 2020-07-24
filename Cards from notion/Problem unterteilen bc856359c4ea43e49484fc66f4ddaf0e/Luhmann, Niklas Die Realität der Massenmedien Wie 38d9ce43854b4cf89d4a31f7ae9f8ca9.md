@@ -1,1 +1,0 @@
-# Luhmann, Niklas. Die Realität der Massenmedien. Wiesbaden: Springer Fachmedien Wiesbaden, 2017. https://doi.org/10.1007/978-3-658-17738-6.

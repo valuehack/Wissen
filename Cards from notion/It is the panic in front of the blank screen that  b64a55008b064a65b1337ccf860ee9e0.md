@@ -1,5 +1,0 @@
-# "It is the panic in front of the blank screen that brings students and academic writers to turn to the bookshelves full of self-help books on writing, a market publishers meet in droves by focusing on how to deal with this horse-has-already-left-the-barn situation. If we take notes unsystematically, inefficiently or simply wrong, we might not even realise it until we are in the midst of a deadline panic […] the myth of the blank page itself. They struggle because they believe, as they are made to believe, that writing starts with a blank page. If you believe that you have indeed nothing at hand to fill it, you have a very good reason to panic. […] the vast majority of self-help books and study guides can only help you to close the barn door correctly and according to official rules - not just a moment, but many months after the horse has already escaped." (Ahrens 2017:10)
-
-Source: Ahrens,%20So%CC%88nke%20How%20to%20Take%20Smart%20Notes%20One%20Simple%20%20e14e62b7b1ba48168a82038c9264cb41.md
-Topic: Wissensmanagement
-Type: Quote

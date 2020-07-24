@@ -1,1 +1,0 @@
-# Carter, Shan, und Michael Nielsen. „Using Artificial Intelligence to Augment Human Intelligence“. Distill 2, Nr. 12 (4. Dezember 2017): e9. https://doi.org/10.23915/distill.00009.

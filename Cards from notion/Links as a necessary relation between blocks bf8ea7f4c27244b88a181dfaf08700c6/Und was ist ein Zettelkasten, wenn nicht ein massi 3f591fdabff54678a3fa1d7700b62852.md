@@ -1,1 +1,0 @@
-# "Und was ist ein Zettelkasten, wenn nicht ein massiver Graf oder Concept-Map?" (Clear 2020:8)

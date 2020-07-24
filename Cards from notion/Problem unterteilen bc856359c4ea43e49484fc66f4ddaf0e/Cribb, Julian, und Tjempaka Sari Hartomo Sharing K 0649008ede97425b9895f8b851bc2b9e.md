@@ -1,1 +1,0 @@
-# Cribb, Julian, und Tjempaka Sari Hartomo. Sharing Knowledge: A Guide to Effective Science Communication. CSIRO Publishing, 2002. https://doi.org/10.1071/9780643069954.

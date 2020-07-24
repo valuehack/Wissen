@@ -1,1 +1,0 @@
-# "Creating categories is a top-down process. You start with the structure and then file the material away. Notes will have to fit the structure. If they don't, there'll have to be a compromise." (Tietze 2015:2)

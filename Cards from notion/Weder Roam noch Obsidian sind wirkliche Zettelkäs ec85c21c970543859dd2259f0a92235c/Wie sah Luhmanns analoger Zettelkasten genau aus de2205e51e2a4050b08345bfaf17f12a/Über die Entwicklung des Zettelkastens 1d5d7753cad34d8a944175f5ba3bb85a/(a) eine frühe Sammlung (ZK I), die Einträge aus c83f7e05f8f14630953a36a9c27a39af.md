@@ -1,1 +1,0 @@
-# "(a) eine frühe Sammlung (ZK I), die Einträge aus den Jahren 1951 bis ca. 1962 (mit sporadischen Einträge insbes. zum Themenkomplex Weltgesellschaft noch bis 1973) auf ca. 23.000 Zetteln in 7 Auszügen versammelt." (Schmidt 2014:3)

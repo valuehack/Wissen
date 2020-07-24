@@ -1,3 +1,0 @@
-# Das Schlagwortverzeichnis
-
-"Vor dem Hintergrund der skizzierten Struktur der Zettelsammlung muss man schließlich auch die Funktion des Schlagwortverzeichnisses verstehen. Der Verzicht auf eine festgelegte Ordnung und konsequenterweise (beim ZK II) auf ein Inhaltsverzeichnis macht das Register zu einem zentralen Werkzeug für die Nutzung des Kastens, da nur so Notizen zu einem bestimmten Thema wiedergefunden bzw. die Nutzung des Verweisungsnetzes möglich wird, indem man einen Einstiegspunkt identifizieren und ansteuern kann." (Schmidt 2014:8)

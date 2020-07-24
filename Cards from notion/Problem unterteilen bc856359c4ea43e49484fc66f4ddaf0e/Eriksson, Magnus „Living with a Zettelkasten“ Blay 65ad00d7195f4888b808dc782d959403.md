@@ -1,1 +1,0 @@
-# Eriksson, Magnus. „Living with a Zettelkasten“. Blay (blog), 21. Juni 2015. https://omxi.se/2015-06-21-living-with-a-zettelkasten.html.
