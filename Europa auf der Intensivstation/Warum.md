@@ -1,3 +1,0 @@
-# Europa auf der Intensivstation, ist das nicht eine Übertreibung? 
-
-Es ist eine Analogie und Aufhänger für ein Buch, wofür etwas Dramatik zugegebenermaßen günstig ist. Ich stehe zu der Analogie: Die Lebendigkeit [Europas](europa.md) ist in Gefahr, Europa hängt an allerlei Schläuchen und damit immer mehr von künstlichen Interventionen ab. Das ist kein negatives Urteil über Europa und die Europäer, sondern eine Warnung, dass die alte Dame fragil geworden ist und an einer existenziellen Weggabelung steht: [Niedergang](niedergang.md) oder [Heilung](heilung.md). Das ist wieder allzu dramatisch formuliert, es dient ja auch dem Aufhänger, soll aber eine erste, vereinfachte, Annäherung an das Thema bieten.
