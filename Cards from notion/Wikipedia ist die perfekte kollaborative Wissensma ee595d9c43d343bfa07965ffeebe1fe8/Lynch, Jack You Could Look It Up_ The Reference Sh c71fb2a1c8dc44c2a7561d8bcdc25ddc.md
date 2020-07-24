@@ -1,1 +1,0 @@
-# Lynch, Jack. You Could Look It Up_ The Reference Shelf from Ancient Babylon to Wikipedia, o. J.

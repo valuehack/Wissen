@@ -4,28 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "afb230b342e666a5",
+        "id": "d536728f41b06ac5",
         "type": "split",
         "children": [
           {
-            "id": "da977b664230bdd1",
+            "id": "be5f8e5525356566",
             "type": "leaf",
+            "dimension": 63.16507503410641,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quotes/Large-scale collaboration requires a more flexible data structure.md",
+                "file": "Sources/Roam White Paper.md",
                 "mode": "source"
               }
             }
           },
           {
-            "id": "90cadce390acad11",
+            "id": "a5019a63df97fbe3",
             "type": "leaf",
+            "dimension": 36.83492496589359,
             "active": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards from notion/Abstraction is important for application bdbc0122270e464f8331438f145fb24f.md",
+                "file": "Untitled.md",
                 "mode": "source"
               }
             }
@@ -72,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 537
+    "width": 238
   },
   "right": {
     "id": "e2205a5310624403",
@@ -103,13 +105,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 180
   },
   "lastOpenFiles": [
-    "Cards f086daecac3e427b894a3e9faa827ba7/Abstraction is important for application bdbc0122270e464f8331438f145fb24f.md",
-    "Cards f086daecac3e427b894a3e9faa827ba7/Abstraction is important for application bdbc0122270e464f8331438f145fb24f/Abstraction does not have a good reputation at the b0afe8748cb2445083d307a6fa105282.md",
-    "Tags.md",
-    "Foam vs Obsidian.md",
-    "foam-tips.md"
+    "Untitled.md",
+    "Workflow für Studium.md",
+    "Sources/Roam White Paper.md",
+    "Workflow.md",
+    "Overview.md"
   ]
 }

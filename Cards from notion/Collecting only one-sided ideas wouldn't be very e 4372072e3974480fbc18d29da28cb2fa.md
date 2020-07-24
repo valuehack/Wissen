@@ -1,5 +1,0 @@
-# "Collecting only one-sided ideas wouldn't be very enriching. Yes, we have to be selective, but not in terms of pros and cons, but in terms of relevant or irrelevant. And as soon we focus on the content of the slip-box, dis-confirming data becomes suddenly very attractive, because it opens up more possible connections and discussions within the slip-box, while mere confirming data does not. It becomes easier to seek out dis-confirming data with practice and can become quite addictive. The experience of how one piece of information can change the whole perspective on a certain problem is exciting. And the more diverse the content of the slip-box is, the further it can bring our thinking forward" (Ahrens 2017:78)
-
-Source: Ahrens,%20So%CC%88nke%20How%20to%20Take%20Smart%20Notes%20One%20Simple%20%20e14e62b7b1ba48168a82038c9264cb41.md
-Topic: Wissensmanagement
-Type: Quote

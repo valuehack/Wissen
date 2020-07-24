@@ -1,1 +1,0 @@
-# Gadamer, Hans-Georg, Bruce Krajewski, und Richard Heinemann. „The Expressive Power of Language: On the Function of Rhetoric for Knowledge“. PMLA 107, Nr. 2 (März 1992): 345. https://doi.org/10.2307/462645.

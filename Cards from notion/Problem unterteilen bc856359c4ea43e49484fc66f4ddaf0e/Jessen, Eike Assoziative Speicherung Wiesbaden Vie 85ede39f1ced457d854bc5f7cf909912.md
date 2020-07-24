@@ -1,1 +1,0 @@
-# Jessen, Eike. Assoziative Speicherung. Wiesbaden: Vieweg+Teubner Verlag, 1965. https://doi.org/10.1007/978-3-322-98425-8.

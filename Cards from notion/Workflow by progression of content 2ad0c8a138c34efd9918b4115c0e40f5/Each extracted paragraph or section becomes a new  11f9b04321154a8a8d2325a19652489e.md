@@ -1,1 +1,0 @@
-# "Each extracted paragraph or section becomes a new element that will be subject to the same reading algorithm as the original article." (Wozniak :7)

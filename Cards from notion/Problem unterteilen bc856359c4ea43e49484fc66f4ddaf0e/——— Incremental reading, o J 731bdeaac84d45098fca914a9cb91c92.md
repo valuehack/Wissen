@@ -1,1 +1,0 @@
-# ———. Incremental reading, o. J.

@@ -1,1 +1,0 @@
-# "Some research systems have been proposed, such as "micropublications" [6] in bioinformatics, but uptake has been limited." (Qian et al 2019:343)

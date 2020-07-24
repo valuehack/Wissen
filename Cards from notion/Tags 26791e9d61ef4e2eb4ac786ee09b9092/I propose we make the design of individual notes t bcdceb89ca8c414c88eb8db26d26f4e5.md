@@ -1,1 +1,0 @@
-# "I propose we make the design of individual notes the primary factor, instead of tags or notebooks." (Forte 2017:4)

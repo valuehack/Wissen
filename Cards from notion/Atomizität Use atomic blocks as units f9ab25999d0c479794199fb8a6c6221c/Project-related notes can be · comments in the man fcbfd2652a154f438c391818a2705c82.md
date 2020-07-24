@@ -1,1 +1,0 @@
-# "Project-related notes can be: · comments in the manuscript · collections of project-related literature · outlines · snippets of drafts · reminders · to-do lists · and of course the draft itself." (Ahrens 2017:46)

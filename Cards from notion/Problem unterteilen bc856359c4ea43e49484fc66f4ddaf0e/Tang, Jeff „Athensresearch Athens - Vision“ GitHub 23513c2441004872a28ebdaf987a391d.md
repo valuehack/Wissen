@@ -1,1 +1,0 @@
-# Tang, Jeff. „Athensresearch/Athens - Vision“. GitHub, 10. Juni 2020. https://github.com/athensresearch/athens.

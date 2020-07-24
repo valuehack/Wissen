@@ -1,1 +1,0 @@
-# "Unlike conventional annotation, however, these segments are flexible, and can be adjusted/expanded by the reuser, because they are "live slices" of the source PDF (powered by a pdfjs React component)" (Qian et al 2019:344)

@@ -1,1 +1,0 @@
-# Kruger, Justin, und David Dunning. „Unskilled and Unaware of It: How Difficulties in Recognizing One’s Own Incompetence Lead to Inflated Self-Assessments.“ Journal of Personality and Social Psychology 77, Nr. 6 (1999): 1121–34. https://doi.org/10.1037/0022-3514.77.6.1121.

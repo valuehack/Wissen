@@ -1,1 +1,0 @@
-# ———. „Why You Should Set Links Manually and Not Rely on Search Alone“. Zettelkasten Method (blog), 12. Oktober 2015. https://www.zettelkasten.de/posts/search-alone-is-not-enough/.

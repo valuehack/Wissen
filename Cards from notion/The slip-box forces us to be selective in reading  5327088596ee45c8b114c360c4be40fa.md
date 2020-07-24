@@ -1,5 +1,0 @@
-# "The slip-box forces us to be selective in reading and note-taking, but the only criterion is the question of whether something adds to a discussion in the slip-box. The only thing that matters is that it connects or is open to connections. Everything can contribute to the development of thoughts within the slip-box: an addition as well as a contradiction, the questioning of a seemingly obvious idea as well as the differentiation of an argument. What we are looking for are facts and information that can add something and therefore enrich the slip-box. One of the most important habitual changes when starting to work with the slip-box is moving the attention from the individual project with our preconceived ideas towards the open connections within the slip-box." (Ahrens 2017:78)
-
-Source: Ahrens,%20So%CC%88nke%20How%20to%20Take%20Smart%20Notes%20One%20Simple%20%20e14e62b7b1ba48168a82038c9264cb41.md
-Topic: Wissensmanagement
-Type: Quote

@@ -1,1 +1,0 @@
-# "Beachte dabei das Prinzip der Atomizität, Autonomie und die Notwendigkeit von Verknüpfungen." (Clear 2020:11)

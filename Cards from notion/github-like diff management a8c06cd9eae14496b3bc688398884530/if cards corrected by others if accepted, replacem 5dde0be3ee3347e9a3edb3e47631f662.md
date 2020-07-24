@@ -1,1 +1,0 @@
-# if cards corrected by others: if accepted, replacement and Wisdom sharing, if not new card created

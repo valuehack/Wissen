@@ -1,1 +1,0 @@
-"Collecting does not transform us and always postpones learning and transformation to the future. Collecting creates debt that we promise to pay back in some future that never arrives. The collection allow us to imagine ourselves in the near future as a person who has read and understood the collected material." ([[Eriksson 2015]]:7)

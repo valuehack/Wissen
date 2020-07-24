@@ -1,1 +1,0 @@
-# Hofstadter, Douglas. „Analogy as the Core of Cognition“. In The Analogical Mind: Perspectives from Cognitive Science, 499–538. Cambridge MA: MIT Press, 2001. http://worrydream.com/refs/Hofstadter%20-%20Analogy%20as%20the%20Core%20of%20Cognition.pdf.

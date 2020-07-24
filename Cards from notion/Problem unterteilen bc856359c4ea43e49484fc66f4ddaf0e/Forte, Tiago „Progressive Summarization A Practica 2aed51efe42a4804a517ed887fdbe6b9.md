@@ -1,1 +1,0 @@
-# Forte, Tiago. „Progressive Summarization: A Practical Technique for Designing Discoverable Notes“. Forte Labs (blog), 27. Dezember 2017. https://fortelabs.co/blog/progressive-summarization-a-practical-technique-for-designing-discoverable-notes/.

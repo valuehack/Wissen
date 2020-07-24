@@ -1,1 +1,0 @@
-# "The brain-Zettelkasten-fit is important. The better your knowledge management system suits the way you think, the easier it'll be to work with the things you put inside. […] Our brain doesn't work with categories, at least not initially. It may invent categories to become more efficient, but we don't start our lives on pre-existing categories." (Tietze 2015:2)
