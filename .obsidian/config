@@ -12,7 +12,7 @@
     "Tag pane": true
   },
   "alwaysUpdateLinks": true,
-  "fileSortOrder": "byModifiedTimeReverse",
+  "fileSortOrder": "alphabetical",
   "promptDelete": false,
   "foldHeading": true,
   "foldIndent": true
