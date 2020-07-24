@@ -1,0 +1,1 @@
+#quote  "Reading can also be subject to the collectors fallacy. Then we read unsystematically - without taking notes or integrating what we understood into our knowledge system - then reading is merely a short-term feeling of understanding." (Eriksson 2015:8)

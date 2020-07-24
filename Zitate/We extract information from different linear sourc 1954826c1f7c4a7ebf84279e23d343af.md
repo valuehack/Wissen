@@ -1,0 +1,1 @@
+#quote  "We extract information from different linear sources and mix it all up and shake it until new patterns emerge. Then, we form these patterns into new linear texts." (Ahrens 2017:102)

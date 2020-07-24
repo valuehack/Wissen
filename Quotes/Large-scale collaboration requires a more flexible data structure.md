@@ -1,3 +1,0 @@
-#quote [[Sources/Roam White Paper]]
-
-"Large-scale collaboration requires a more flexible data structure than the classic file tree. Roam is built on a knowledge graph that maps all possible relationships, with 'smart' links between defined concepts. Users can connect similar ideas in multiple overlapping hierarchies, remix them without overwriting the original context, and selectively share parts of the graph with others to collaborate on specific sub-questions" (White-Sullivan :3)

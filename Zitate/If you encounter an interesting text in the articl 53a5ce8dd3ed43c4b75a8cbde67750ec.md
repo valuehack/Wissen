@@ -1,0 +1,1 @@
+#quote  "If you encounter an interesting text in the article, select it and choose Remember extract […] This operation will introduce the extracted fragment into the learning process as an independent mini-article. […] Once you decide to stop reading the article before its end, mark the last processed fragment as the read-point" (Wozniak :5)

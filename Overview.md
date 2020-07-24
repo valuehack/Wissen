@@ -2,8 +2,7 @@
 
 ## Themen
 
+[[scholarium Bedeutung für scholarium und Vision]]
+[[Design UI & Funktionalität]]
 [[Technische Umsetzung]]
-
-## Claims
-
-## Evidence
+[[Philosophie & Motivation]]

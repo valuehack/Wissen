@@ -1,0 +1,1 @@
+# "400-500 Zetteln pro Auszug handelt es sich um Einträge mit einem generellen Bezug zum Zettelkasten (z.B. bibliographische Angaben, Exzerpte, einzelpublikationsbezogene Zettelsammlungen8)." (Schmidt 2014:4)

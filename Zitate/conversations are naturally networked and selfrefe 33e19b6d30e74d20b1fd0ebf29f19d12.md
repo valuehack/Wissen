@@ -1,0 +1,1 @@
+#quote  "conversations are naturally networked and selfreferential. But all we have right now is a ceaseless tidal wave of messages represented as an append-only log. Managing it all with search, one level of threads, and channels is Sisyphean at best." (Tang 2020:3)

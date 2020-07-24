@@ -1,0 +1,1 @@
+#quote  "the learning process will intermingle reading of new articles with reviewing your items your items will mostly have a form of cloze deletions, i.e. sentences with a question posed by a missing part [...] (e.g. The planet nearest the Sun is [...]) as the entire learning process is incremental, your cloze deletions will often show up in an unfinished form" (Wozniak :11)

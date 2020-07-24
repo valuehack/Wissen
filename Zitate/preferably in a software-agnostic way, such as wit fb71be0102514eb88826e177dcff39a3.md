@@ -1,0 +1,1 @@
+#quote  "preferably in a software-agnostic way, such as with plain text and customizable programming text editors." (Eriksson 2015:1)
