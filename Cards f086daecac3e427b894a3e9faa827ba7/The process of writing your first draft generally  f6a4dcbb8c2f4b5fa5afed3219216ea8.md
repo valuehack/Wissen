@@ -1,1 +1,1 @@
-# "The process of writing your first draft generally consists of making an outline from the overview of the knowledge of the field and populating each item in the outline with notes from your archive." (Eriksson 2015:9)
+# "The process of writing your first draft generally consists of making an outline from the overview of the knowledge of the field and populating each item in the outline with notes from your archive." ([[Eriksson 2015]]:9)
