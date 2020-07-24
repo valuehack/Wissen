@@ -1,0 +1,88 @@
+{
+  "main": {
+    "id": "a031b85b5f692ac5",
+    "type": "split",
+    "children": [
+      {
+        "id": "98317453d40aa711",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Quote.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "faed033e5c596a78",
+    "type": "split",
+    "children": [
+      {
+        "id": "9af78bf81c549ac0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a181e35f3797dd40",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7443576a2a4bbdc1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {}
+            }
+          },
+          {
+            "id": "f43262f035566eb2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 720
+  },
+  "right": {
+    "id": "e2205a5310624403",
+    "type": "split",
+    "children": [
+      {
+        "id": "99172dd34129f766",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6f9a8af18373ee4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "lastOpenFiles": [
+    "Quote.md",
+    "Cards f086daecac3e427b894a3e9faa827ba7/Avoid The Collectors Fallacy 0c5cd7c9bd534ba7af22c29746c88e2a/Reading can also be subject to the collectors fall.md",
+    "Cards f086daecac3e427b894a3e9faa827ba7/Avoid The Collectors Fallacy 0c5cd7c9bd534ba7af22c29746c88e2a/the worst example of a note being the highlight.md",
+    "Cards f086daecac3e427b894a3e9faa827ba7/Avoid The Collectors Fallacy 0c5cd7c9bd534ba7af22c29746c88e2a/In the end, the collectors fallacy relies on a tot 2ba2f44a71e04af7a919c357fdffab29.md",
+    "Cards f086daecac3e427b894a3e9faa827ba7/Avoid The Collectors Fallacy 0c5cd7c9bd534ba7af22c29746c88e2a/In genereal, you should never read anything withou d3f3b3212c524e2fb2ba897f630a181e.md"
+  ]
+}
