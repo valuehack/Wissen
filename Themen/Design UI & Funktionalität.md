@@ -1,3 +1,0 @@
-# Design: UI & Funktionalität
-
-#topic 

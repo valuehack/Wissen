@@ -15,5 +15,6 @@
 - noch keine Zotero-Integration
 - noch keine integrierte Kollaboration-Funktion
 - noch keine Publikations-Funktion
+- [[Obsidian generates backlinks using file name, not title]]
 
 #claim 
