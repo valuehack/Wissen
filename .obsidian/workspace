@@ -4,30 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "d536728f41b06ac5",
+        "id": "caa55299567700bd",
         "type": "split",
         "children": [
           {
-            "id": "be5f8e5525356566",
+            "id": "f05a208745869c17",
             "type": "leaf",
-            "dimension": 63.16507503410641,
+            "active": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sources/Roam White Paper.md",
+                "file": "Ordnern.md",
                 "mode": "source"
               }
             }
           },
           {
-            "id": "a5019a63df97fbe3",
+            "id": "c65ad2c0bc21cda0",
             "type": "leaf",
-            "dimension": 36.83492496589359,
-            "active": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Claims/Quellen.md",
                 "mode": "source"
               }
             }
@@ -100,18 +98,17 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 180
   },
   "lastOpenFiles": [
-    "Untitled.md",
-    "Workflow für Studium.md",
-    "Sources/Roam White Paper.md",
-    "Workflow.md",
-    "Overview.md"
+    "Ordnern.md",
+    "Claims/Quellen.md",
+    "Claims/shared library of sources.md",
+    "Claims/Bessere Darstellung, Generierung und Strukturierung von Inhalten für scholarium-Unterstützer.md",
+    "Quellen.md"
   ]
 }
