@@ -1,0 +1,1 @@
+#quote  "Layer 2 is the first round of true summarization, in which I bold only the best parts of the passages I've imported. Again, I have no explicit criteria. I look for keywords, key phrases, and key sentences that I feel represent the core or essence of the idea being discussed. I do this bolding layer at a later time, when I'm already reviewing this note anyway.

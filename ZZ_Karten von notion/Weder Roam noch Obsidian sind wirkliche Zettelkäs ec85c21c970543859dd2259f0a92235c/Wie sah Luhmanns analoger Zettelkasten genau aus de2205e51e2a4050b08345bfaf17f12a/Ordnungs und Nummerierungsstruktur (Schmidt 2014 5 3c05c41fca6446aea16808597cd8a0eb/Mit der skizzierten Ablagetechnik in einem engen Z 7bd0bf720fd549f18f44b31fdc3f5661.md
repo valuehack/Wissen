@@ -1,0 +1,1 @@
+# "Mit der skizzierten Ablagetechnik in einem engen Zusammenhang steht das besondere Nummerierungssystem Luhmanns, das es überhaupt erst erlaubt, Zettel wiederzufinden bzw. gezielt zu adressieren: Jeder Zettel erhält eine" (Schmidt 2014:6)

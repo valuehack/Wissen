@@ -1,0 +1,1 @@
+# Vergleich der Implementierung in neue Texte

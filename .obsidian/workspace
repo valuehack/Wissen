@@ -4,30 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "d536728f41b06ac5",
+        "id": "4bfee991459538ed",
         "type": "split",
         "children": [
           {
-            "id": "be5f8e5525356566",
+            "id": "782f21a30100034c",
             "type": "leaf",
-            "dimension": 63.16507503410641,
+            "active": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sources/Roam White Paper.md",
+                "file": "Status und Überblick.md",
                 "mode": "source"
               }
             }
           },
           {
-            "id": "a5019a63df97fbe3",
+            "id": "9c461527cfc3944f",
             "type": "leaf",
-            "dimension": 36.83492496589359,
-            "active": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Claims/Obsidian.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "3caaf886212a52e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Themen/Technische Umsetzung.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "a169916899220a2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Claims/git for version control.md",
                 "mode": "source"
               }
             }
@@ -69,6 +89,14 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "db3afe1076989a15",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
@@ -99,19 +127,26 @@
               "type": "tag",
               "state": {}
             }
+          },
+          {
+            "id": "27e835ad03f0ea61",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 180
   },
   "lastOpenFiles": [
-    "Untitled.md",
-    "Workflow für Studium.md",
-    "Sources/Roam White Paper.md",
     "Workflow.md",
+    "Notizen-Drafts-Kommentare/Fragen, die sich aus der Nutzung von obsidian ergeben.md",
+    "Claims/Obsidian.md",
+    "Claims/Markdown-files.md",
     "Overview.md"
   ]
 }

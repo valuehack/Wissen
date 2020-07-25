@@ -1,0 +1,1 @@
+#quote  "Progressive Summarization works in "layers" of summarization. Layer 0 is the original, full-length source text. Layer 1 is the content that I initially bring into my note-taking program. I don't have an explicit set of criteria on what to keep. I just capture anything that feels insightful, interesting, or useful." (Forte 2017:6)

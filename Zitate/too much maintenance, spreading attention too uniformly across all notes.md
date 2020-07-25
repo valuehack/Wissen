@@ -1,0 +1,3 @@
+#quote 
+
+"relying on tagging is too fragile and requires **too much maintenance, spreading attention too uniformly across all notes** whether or not they are truly valuable. The virtual matrix sounds cool and futuristic, but our minds are not made to work well with such abstract concepts — we understand placing one thing in one place intuitively and automatically." ([Forte 2017:3](zotero://open-pdf/library/items/DHH2FKWF?page=3))

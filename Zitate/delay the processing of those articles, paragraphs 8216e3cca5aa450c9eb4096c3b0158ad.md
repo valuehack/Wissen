@@ -1,0 +1,1 @@
+#quote  "delay the processing of those articles, paragraphs or sentences that require prior knowledge of concepts that are not known at the moment of reading. The processing of the learning material will only take place then when the new information begins to slot in comfortably in the fabric of the reader's knowledge." (Wozniak :36)
