@@ -1,3 +1,0 @@
-# Philosophie & Motivation
-
-#topic 

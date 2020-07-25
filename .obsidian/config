@@ -9,7 +9,10 @@
     "Command palette": true,
     "Markdown format importer": true,
     "Word count": true,
-    "Tag pane": true
+    "Tag pane": true,
+    "Slides": true,
+    "Outline": true,
+    "Starred": true
   },
   "alwaysUpdateLinks": true,
   "fileSortOrder": "byModifiedTime",

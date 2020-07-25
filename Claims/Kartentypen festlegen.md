@@ -15,4 +15,4 @@
 	- Bietet Normen für größere Übersichtlichkeit und gegenseitige Relevanz
 - Nachteile:
 	- schwer mit Markdown-Files abzubilden
-		- mit tags und [[Ordnern]] machbar
+		- mit tags und [[Ordner]] machbar
