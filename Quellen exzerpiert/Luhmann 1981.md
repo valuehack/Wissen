@@ -6,7 +6,7 @@
 
 "Für Kommunikation ist eine der elementaren Voraussetzungen, dass die Partner sich wechselseitig überraschen können. Nur so ist ein Generieren von Information im jeweils anderen möglich." ([Luhmann 1981:222](zotero://open-pdf/groups/2533259/items/BWXGCTAQ?page=1))
 
-"Für Kommunikation ist nicht vorauszusetzen, dass beide Partner das gleiche Vergleichsschema verwenden; der Überraschungseffekt steigt sogar, wenn dies nicht der Fall ist und man es als Zufall ansieht" [Luhmann 1981:223](zotero://open-pdf/groups/2533259/items/BWXGCTAQ?page=2))
+"Für Kommunikation ist nicht vorauszusetzen, dass beide Partner das gleiche Vergleichsschema verwenden; der Überraschungseffekt steigt sogar, wenn dies nicht der Fall ist und man es als Zufall ansieht" [Luhmann 1981:223](zotero://open-pdf/groups/2533259/items/BWXGCTAQ?page=2)) [[Nicht Diff markieren]]
 
 "Soll ein Kommunikationsystem über langere Zeit zusammenhalten, muß entweder der Weg hochgradig technischer Spezialisierung oder der Weg der Inkorporierung von Zufall und ad hoc generierter Information gewählt werden. Auf Notizsammlungen übertragen: Man kann den Weg einer thematischen Spezialisierung (etwa: Notizen über das Staatshaftungsrecht) oder den Weg einer offenen Anlage wählen. Wir haben uns für die zuletztgenannte Alternative entschieden, und nach nunmehr 26 Jahren erfolgreicher, nur gelegentlich schwieriger Zusammenarbeit können wir den Erfolg - oder zumindest: die Gangbarkeit dieses Weges bestätigen." ([Luhmann 1981:223](zotero://open-pdf/groups/2533259/items/BWXGCTAQ?page=2))
 

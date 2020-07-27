@@ -4,3 +4,4 @@
 [[Foam VS-Code extension]]
 [[Roam]]
 [[Notion]]
+[[vim]]
