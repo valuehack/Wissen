@@ -16,5 +16,7 @@
 - noch keine integrierte Kollaboration-Funktion
 - noch keine Publikations-Funktion
 - [[Obsidian generates backlinks using file name, not title]]
+- tag-Ansicht nicht sehr übersichtlich
+- tag muss im Kartentext stehen - unschön, inkonsistente Positionen
 
 #claim 
