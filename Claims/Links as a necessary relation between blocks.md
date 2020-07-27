@@ -2,13 +2,10 @@
 
 #claim 
 
-[links between blocks produce structure](Links%20as%20a%20necessary%20relation%20between%20blocks%20bf8ea7f4c27244b88a181dfaf08700c6/links%20between%20blocks%20produce%20structure%20f9ded2da7441491aad123d5d151754fc.md)
-
-[Links innerhalb von Text (wikilinks) oder nur zwischen Blöcken?](Links%20as%20a%20necessary%20relation%20between%20blocks%20bf8ea7f4c27244b88a181dfaf08700c6/Links%20innerhalb%20von%20Text%20(wikilinks)%20oder%20nur%20zwis%2013f687219d754c9392575ec79699c06c.md)
-
-[different kinds of links?](Links%20as%20a%20necessary%20relation%20between%20blocks%20bf8ea7f4c27244b88a181dfaf08700c6/different%20kinds%20of%20links%20e23a4da9c9c04f6d8ad50ec0ada14eaa.md)
-
-[different strength of links?](Links%20as%20a%20necessary%20relation%20between%20blocks%20bf8ea7f4c27244b88a181dfaf08700c6/different%20strength%20of%20links%208b057a30d7c641ff850bc9e57ba29c30.md)
+[[links between blocks produce structure]]
+[[Links innerhalb von Text (wikilinks) oder nur zwischen Blöcken]]
+[[different kinds of links?]]
+[[different strength of links?]]
 
 ["conversations are naturally networked and selfreferential. But all we have right now is a ceaseless tidal wave of messages represented as an append-only log. Managing it all with search, one level of threads, and channels is Sisyphean at best." ([Tang 2020:3](zotero://open-pdf/library/items/KTGD8N25?page=3))](Links%20as%20a%20necessary%20relation%20between%20blocks%20bf8ea7f4c27244b88a181dfaf08700c6/conversations%20are%20naturally%20networked%20and%20selfrefe%2033e19b6d30e74d20b1fd0ebf29f19d12.md)
 
