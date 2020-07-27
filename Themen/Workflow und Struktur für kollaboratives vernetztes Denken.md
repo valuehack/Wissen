@@ -12,7 +12,7 @@
 
 ## Vorüberlegungen
 
-- Zettelkasten-Prinzip bietet Grundlage für Lösungen
+-  [[Was sind die zeitlos relevanten Grundlagen der Zettelkasten-Methode|Zettelkasten-Methode]] bietet Grundlage für Lösungen
 	- Zettelkasten erlaubt Kollaboration mit dem vergangenen Selbst = einfachere Vorstufe der Kollaboration mit anderen
-	- [[Was sind die zeitlos relevanten Grundlagen der Zettelkasten-Methode]]
-- Aktueller Hype: [[We've recently seen an explosion in Tools for Networked Thought]] - besonders erfolgreich: [[Roam]]
+- Aktueller Hype: [[We've recently seen an explosion in Tools for Networked Thought]]
+	- besonders erfolgreich: [[Roam]]

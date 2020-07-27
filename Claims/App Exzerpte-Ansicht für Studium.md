@@ -1,5 +1,6 @@
 - Importiert Exzerpt
-- Spaltet in Quotes
+	- Spaltet in Quotes
+	- verlinkt zu Source
 	- Exzerpt wird zu Liste von Links zu Quotes
 		- = Topic-Karte
 - Buttons:
@@ -7,6 +8,5 @@
 		- Kurzbeschreibung möglich & angeregt, sonst Zitatanfang als Kurzbeschreibung (=file name)
 	- Notiz zu Quote(s)
 	- (zu Topic hinzufügen)
-
 
 #claim 

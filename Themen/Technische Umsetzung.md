@@ -6,4 +6,9 @@
 - Bessere Synchronisation als [[git for version control]]
 - Zunächst kleine Apps für Facetten des Workflows
 	- Erste: [[App Exzerpte-Ansicht für Studium]]
+- Deployment
+	- [[Hugo]]
+	- [[Jekyll]] + Github-Pages
+	- [[Netlify]]
+	- [[Vercel]]
 
