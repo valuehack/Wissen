@@ -19,7 +19,6 @@
 			- oder als Erweiterungsstufe einer Notiz: für sich stehender Text, der eine Behauptung darstellt, eine Antwort auf einen Frage gibt oder Evidenz beschreibt (Erfahrungen, Messungen, Experimente, Beobachtungen, Argumente etc.)
 		- Nach Fertigstellung der Notiz File in richtigen Ordner verschieben
 		- create new file
-
 - Interessen/Themenwünsche:
 	- Neue Datei anlegen, als topic taggen, Thema beschreiben
 	- Ich verlinke dann darin Literaturvorschläge

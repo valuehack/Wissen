@@ -11,8 +11,8 @@
 - linked & unlinked mentions (wie [[Roam]])
 
 ## Nachteile
-- [[Obsidian not open source]]
-- keine Plugins möglich (zB für git-Integration)
+- [[Obsidian not open source]] (aber API)
+- keine Plugins möglich (zB für git-Integration) (? doch: API?)
 - noch keine Zotero-Integration
 - noch keine integrierte Kollaboration-Funktion
 - noch keine Publikations-Funktion
