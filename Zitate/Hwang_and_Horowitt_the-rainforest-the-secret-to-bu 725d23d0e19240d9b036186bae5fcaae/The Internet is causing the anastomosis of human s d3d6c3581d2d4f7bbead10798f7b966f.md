@@ -1,0 +1,1 @@
+# "The Internet is causing the anastomosis of human society. It is as if the long root structures of humanity, which started in various disparate civilizations around the world, are starting to connect together again at their ends." (Hwang and Horowitt 2012:235)

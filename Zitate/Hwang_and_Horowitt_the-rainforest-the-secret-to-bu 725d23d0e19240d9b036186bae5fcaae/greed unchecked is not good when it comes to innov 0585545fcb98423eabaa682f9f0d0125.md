@@ -1,0 +1,1 @@
+# "greed unchecked is not good when it comes to innovation. Greed that is restrained so that a community of people can mutually pursue highly beneficial economic activity, however, can be powerful indeed." (Hwang and Horowitt 2012:121)

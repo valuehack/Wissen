@@ -1,0 +1,1 @@
+# "Instead of land, labor, capital, and technology, we focus on ideas, talent, and capital." (Hwang and Horowitt 2012:65)

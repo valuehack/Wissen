@@ -1,0 +1,1 @@
+# "for some reason, the recipe for cooking those ingredients in San Diego yielded a vastly different result than it did in Chicago. If you ask people in San Diego's technology community today what made the difference, the most common answer you will hear will be the name of one man―Bill Otterson―and the organization he helped build: CONNECT." (Hwang and Horowitt 2012:80)

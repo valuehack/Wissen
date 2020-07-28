@@ -1,0 +1,1 @@
+# "In one recent research experiment, scientists measured facial recognition bias―our brain's tendency to remember faces of our own race better than the faces of another race―and discovered that people easily overcame this bias when they were simply told that the faces they were seeing were members of their own group." (Hwang and Horowitt 2012:115)

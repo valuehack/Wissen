@@ -1,0 +1,1 @@
+# "only a few regions like Silicon Valley have become enduring innovation ecosystems" (Hwang and Horowitt 2012:15)

@@ -1,0 +1,1 @@
+# "We believe that there is an underlying fractal geometry of innovation. […] a human-to-human equation, replicated thousands or millions of times, accounts for much of what we see in vibrant Rainforests." (Hwang and Horowitt 2012:94)

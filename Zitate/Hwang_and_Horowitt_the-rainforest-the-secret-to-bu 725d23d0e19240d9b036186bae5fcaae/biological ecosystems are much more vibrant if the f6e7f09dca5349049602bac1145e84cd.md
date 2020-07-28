@@ -1,0 +1,1 @@
+# "biological ecosystems are much more vibrant if they are comprised of a contiguous tract of land rather than a number of smaller isolated parcels" (Hwang and Horowitt 2012:60)

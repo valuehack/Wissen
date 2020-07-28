@@ -1,0 +1,1 @@
+# "good venture capitalists are positive-sum builders of companies―not zero-sum money managers. Venture capital is not about extracting value out of companies, like an oil pump might extract oil. It is about creating long-term value in close relationships" (Hwang and Horowitt 2012:208)

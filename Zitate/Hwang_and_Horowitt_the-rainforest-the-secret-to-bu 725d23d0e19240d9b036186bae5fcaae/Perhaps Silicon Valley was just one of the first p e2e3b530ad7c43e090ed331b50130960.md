@@ -1,0 +1,1 @@
+# "Perhaps Silicon Valley was just one of the first points of fusion of these human networks. Anastomosis in the human race, however, can be dangerous. There is significant risk because unlike the fungal mycelium networks or the aspen forest, the human race is not a single organism. Humans often have allergic reactions to one another." (Hwang and Horowitt 2012:235)

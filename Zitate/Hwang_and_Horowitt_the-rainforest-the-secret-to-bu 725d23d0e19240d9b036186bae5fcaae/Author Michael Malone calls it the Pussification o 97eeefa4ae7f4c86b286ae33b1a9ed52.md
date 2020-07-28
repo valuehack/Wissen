@@ -1,0 +1,1 @@
+# "Author Michael Malone calls it the "Pussification of Silicon Valley." […] There was a time in the Valley―not that far in the past―when your word was your bond, conventional wisdom was your enemy, and everyone's top job was to build killer companies. As Malone observes, the Valley is increasingly becoming populated with people

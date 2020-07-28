@@ -1,0 +1,1 @@
+# "Whereas macroeconomics can be explained by the mathematics that govern the movement of oceans, Rainforests can be explained by the wave equations that govern how particles self-organize into larger patterns." (Hwang and Horowitt 2012:266)

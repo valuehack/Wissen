@@ -1,0 +1,1 @@
+# "To solve this problem, people have created new tools, including the structure known as a company. If we insert a company in the middle of the basic exchange, it becomes a potential way for all parties to transact equitably. Each party gets a piece of the new company in exchange for their contributions to it." (Hwang and Horowitt 2012:101)

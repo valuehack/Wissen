@@ -5,3 +5,4 @@ Ich habe alle relevanten Inhalte von Notion übernommen - bis auf einige von Fab
 - Aktueller workflow in [[Obsidian]] umgesetzt
 	- [[Fragen, die sich aus der Nutzung von obsidian ergeben]]
 - Einstieg: [[Workflow und Struktur für kollaboratives vernetztes Denken]]
+- Erste Entwicklung: [[App Exzerpte-Ansicht für Studium]]

@@ -1,0 +1,1 @@
+# "The origin of every innovative endeavor in the history of human society has required an implied exchange based on good faith." (Hwang and Horowitt 2012:101)

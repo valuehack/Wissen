@@ -1,0 +1,1 @@
+# "Where innovation is concerned, markets are largely inefficient." (Hwang and Horowitt 2012:32)

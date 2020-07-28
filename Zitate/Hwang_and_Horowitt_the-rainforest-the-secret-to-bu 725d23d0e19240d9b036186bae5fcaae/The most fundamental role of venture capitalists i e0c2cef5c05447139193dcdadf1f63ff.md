@@ -1,0 +1,1 @@
+# "The most fundamental role of venture capitalists is to control how equity is allocated in a company and to align incentives of key parties productively." (Hwang and Horowitt 2012:208)

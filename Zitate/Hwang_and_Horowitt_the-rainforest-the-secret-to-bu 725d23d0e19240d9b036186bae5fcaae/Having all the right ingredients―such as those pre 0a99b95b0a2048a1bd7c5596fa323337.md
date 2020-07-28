@@ -1,0 +1,1 @@
+# "Having all the right ingredients―such as those present in Chicago―will not necessarily result in successful innovation. You need to prepare those raw ingredients, combining them in just the right way, as they were in San Diego." (Hwang and Horowitt 2012:30)

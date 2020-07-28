@@ -1,0 +1,1 @@
+# "Theorists make bad teachers. Entrepreneurs learn best from peer and practitioner interactions, as opposed to theoretical experts who might have studied entrepreneurship but have not "done" it." (Hwang and Horowitt 2012:86)

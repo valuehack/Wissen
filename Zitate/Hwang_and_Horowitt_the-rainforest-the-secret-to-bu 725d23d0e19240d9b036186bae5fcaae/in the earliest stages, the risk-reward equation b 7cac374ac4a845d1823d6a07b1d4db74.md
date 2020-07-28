@@ -1,0 +1,1 @@
+# "in the earliest stages, the risk-reward equation breaks down. […] The real-world transaction costs of doing seed-stage or early-stage investments can eliminate many of their theoretical benefits." (Hwang and Horowitt 2012:201)

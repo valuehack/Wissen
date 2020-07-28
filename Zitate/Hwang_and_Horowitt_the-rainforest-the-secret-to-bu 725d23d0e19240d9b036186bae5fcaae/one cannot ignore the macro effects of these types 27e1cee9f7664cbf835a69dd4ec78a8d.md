@@ -1,0 +1,1 @@
+# "one cannot ignore the macro effects of these types of micro behaviors. To create the right kind of macro-system, one must intentionally nurture the "right" set of microbehaviors, and involve people who have the character to live up to those standards. The world does not need more asshole venture capitalists." (Hwang and Horowitt 2012:212)

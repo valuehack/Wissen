@@ -1,0 +1,1 @@
+# "Then Larry met venture capitalist Kevin Kinsella, who had an entirely different way of practicing the venture business. Kevin liked to start companies from scratch." (Hwang and Horowitt 2012:72)

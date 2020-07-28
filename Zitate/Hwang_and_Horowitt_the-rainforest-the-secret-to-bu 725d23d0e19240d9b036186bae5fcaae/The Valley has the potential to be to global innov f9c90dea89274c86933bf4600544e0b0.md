@@ -1,0 +1,1 @@
+# "The Valley has the potential to be to global innovation in the 21st century what New York City has been to finance and media in the 20th century, what Amsterdam was to trade in the 17th century, and what Northern Italy was to finance, trade, and the arts in the 15th century." (Hwang and Horowitt 2012:255)

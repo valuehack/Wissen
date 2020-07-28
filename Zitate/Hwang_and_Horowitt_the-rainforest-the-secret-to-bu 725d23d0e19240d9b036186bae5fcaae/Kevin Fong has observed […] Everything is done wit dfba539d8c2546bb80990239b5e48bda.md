@@ -1,0 +1,1 @@
+# "Kevin Fong has observed […] Everything is done with a handshake in the Valley. If it's a failure, no one cares. If it succeeds, then everyone is happy." (Hwang and Horowitt 2012:146)

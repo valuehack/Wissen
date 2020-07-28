@@ -1,0 +1,1 @@
+# "When people feel like they are not members of a group, their brains process less information communicated by members of the group. 30 Social psychologists call this phenomenon emotional numbing. Social exclusion "numbs" our ability to hear others." (Hwang and Horowitt 2012:107)

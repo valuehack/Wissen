@@ -1,0 +1,1 @@
+# "He facilitated the kind of cooperation that overcomes social friction and allows economic transactions to occur. Entrepreneurial innovation cannot thrive without keystones like Larry Bock." (Hwang and Horowitt 2012:75)

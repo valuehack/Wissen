@@ -1,0 +1,1 @@
+# "Economic activity looks atomic when examined at the microscopic level, but it appears like a fluid when examined at the macroscopic level. The flow-form model is a way to represent the middle point where the micro and macro intersect." (Hwang and Horowitt 2012:230)

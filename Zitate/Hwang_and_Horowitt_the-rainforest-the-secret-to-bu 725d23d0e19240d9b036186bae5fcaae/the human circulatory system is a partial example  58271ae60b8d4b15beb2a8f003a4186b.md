@@ -1,0 +1,1 @@
+# "the human circulatory system is a partial example of such a "round trip" network. You can lose a limb or digit―say, a finger―but with the right care, the rest of the body is able to maintain full circulation and eventually recovers." (Hwang and Horowitt 2012:227)

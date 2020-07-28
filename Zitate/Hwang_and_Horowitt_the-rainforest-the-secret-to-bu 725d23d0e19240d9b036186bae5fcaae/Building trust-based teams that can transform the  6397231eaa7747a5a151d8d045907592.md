@@ -1,0 +1,1 @@
+# "Building trust-based teams that can transform the world in positive ways affects the brain in the same addictive way that a narcotic can. As Ade Mabogunje says, "Trust is like cocaine." Human beings derive sustenance from social connections beyond the money they earn from these relationships. We derive pleasure from giving as well as receiving." (Hwang and Horowitt 2012:122)

@@ -1,0 +1,1 @@
+# "High social barriers outside of close circles of family and friends are the norm in the world. […] Human beings start with a prejudice against reaching outside of their circle of trust. One must work hard to overcome the distrust that naturally occurs between people who are socially far apart." (Hwang and Horowitt 2012:63)

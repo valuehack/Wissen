@@ -1,0 +1,1 @@
+# "the way the human brain thinks of social groups is highly malleable, and is based on context. We can create new tribes and social structures if we want." (Hwang and Horowitt 2012:114)

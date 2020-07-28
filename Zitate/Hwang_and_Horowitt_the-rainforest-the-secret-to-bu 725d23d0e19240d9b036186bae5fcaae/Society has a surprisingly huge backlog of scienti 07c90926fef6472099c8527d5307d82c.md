@@ -1,0 +1,1 @@
+# "Society has a surprisingly huge backlog of scientific discoveries that are "stuck in the pipeline," stalled by the human barriers that prevent them from reaching the marketplace." (Hwang and Horowitt 2012:51)

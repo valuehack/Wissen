@@ -1,0 +1,1 @@
+# "the process of discovering new and interesting things with others can strengthen relationships, through activating the reward-based dopamine and norpepinephrine systems. […] marriages become stronger when couples engage in novel activities together." (Hwang and Horowitt 2012:123)

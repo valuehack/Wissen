@@ -1,0 +1,1 @@
+# "Venture capital, therefore, is not about writing a bunch of small checks. Nor is it about selecting winning stocks, like a mutual fund manager or stock broker. Venture capital is about creating value where none existed before. This value is grown only after the money is invested―in close collaboration with the entrepreneurs." (Hwang and Horowitt 2012:206)

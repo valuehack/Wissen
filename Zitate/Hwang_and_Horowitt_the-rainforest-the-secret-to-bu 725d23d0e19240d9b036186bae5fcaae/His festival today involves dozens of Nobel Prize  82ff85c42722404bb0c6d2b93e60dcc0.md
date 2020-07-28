@@ -1,0 +1,1 @@
+# "His festival today involves dozens of Nobel Prize winners, Fortune 100 technology executives, university presidents, the White House, and crowds of kids. His first festival in 2010 drew 500,000 attendees, who participated in 1500 hands-on activities and watched 75 live performances." (Hwang and Horowitt 2012:79)

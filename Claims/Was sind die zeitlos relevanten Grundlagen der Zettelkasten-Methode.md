@@ -5,3 +5,4 @@
 1. [[Atomizität]]
 2. [[Autonomie Jede Karte steht für sich]]
 3. [[Links as a necessary relation between blocks]]
+4. Geteilter Workflow

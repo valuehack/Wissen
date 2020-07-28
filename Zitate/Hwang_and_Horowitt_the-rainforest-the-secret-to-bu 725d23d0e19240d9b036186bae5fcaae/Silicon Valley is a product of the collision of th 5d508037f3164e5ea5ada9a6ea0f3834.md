@@ -1,0 +1,1 @@
+# "Silicon Valley is a product of the collision of the frontier culture with the hyper-diversity of modern California. Silicon Valley's emergence coincided with a sharp increase in the diversity of people in California." (Hwang and Horowitt 2012:145)

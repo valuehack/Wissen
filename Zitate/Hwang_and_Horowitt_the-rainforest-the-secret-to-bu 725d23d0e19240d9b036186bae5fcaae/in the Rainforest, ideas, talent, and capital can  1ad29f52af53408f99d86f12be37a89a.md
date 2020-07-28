@@ -1,0 +1,1 @@
+# "in the Rainforest, ideas, talent, and capital can flow from one person to the next without a discrete or formal "transaction" per se. […] the movement of ideas, talent, and capital―the "contents"―is dependent on the relative openness or tightness of the arteries―the "contexts". Communication between people is the heart of flow within the system." (Hwang and Horowitt 2012:231)

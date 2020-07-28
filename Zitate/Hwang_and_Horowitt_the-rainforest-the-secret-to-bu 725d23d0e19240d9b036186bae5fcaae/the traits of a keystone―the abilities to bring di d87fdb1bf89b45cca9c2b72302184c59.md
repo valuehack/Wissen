@@ -1,0 +1,1 @@
+# "the traits of a keystone―the abilities to bring disparate people together, to exercise persuasion over them, and to give them a common agenda for mutual benefit. Like a honeybee connecting ecosystems that are miles apart" (Hwang and Horowitt 2012:82)

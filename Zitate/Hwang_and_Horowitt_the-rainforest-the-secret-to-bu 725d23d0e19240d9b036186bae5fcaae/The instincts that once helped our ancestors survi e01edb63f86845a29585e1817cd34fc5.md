@@ -1,0 +1,1 @@
+# "The instincts that once helped our ancestors survive are hurting our ability to maximize innovation today." (Hwang and Horowitt 2012:107)

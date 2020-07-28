@@ -1,0 +1,1 @@
+# "Venture capital done well is a form of biological mutualism―it reinforces the fragile bonds that hold people together in a nascent enterprise. Venture capital done poorly can break those bonds apart quickly." (Hwang and Horowitt 2012:209)

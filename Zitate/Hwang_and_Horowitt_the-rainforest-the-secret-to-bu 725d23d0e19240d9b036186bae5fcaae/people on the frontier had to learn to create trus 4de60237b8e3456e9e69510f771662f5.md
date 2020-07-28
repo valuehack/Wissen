@@ -1,0 +1,1 @@
+# "people on the frontier had to learn to create trust quickly, or risk death." (Hwang and Horowitt 2012:146)

@@ -1,0 +1,1 @@
+# "Entrepreneurs are not risk takers per se. They are opportunity seekers. […] Good entrepreneurs are more like risk calculators than risk takers." (Hwang and Horowitt 2012:86)

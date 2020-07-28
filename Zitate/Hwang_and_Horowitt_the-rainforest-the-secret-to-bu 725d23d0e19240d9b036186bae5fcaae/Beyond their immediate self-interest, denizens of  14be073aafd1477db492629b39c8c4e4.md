@@ -1,0 +1,1 @@
+# "Beyond their immediate self-interest, denizens of the Rainforest frequently seek a return on involvement from participating in and contributing to the success of innovative ventures. It is what we call the "New ROI" of the Rainforest." (Hwang and Horowitt 2012:87)

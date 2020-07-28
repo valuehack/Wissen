@@ -1,0 +1,1 @@
+# "who will compromise everything―pleasure, physical excitement, love, and friendship―in the hope of living a long, healthy, and hopelessly uneventful life. Silicon Valley used to pulverize such pussies, now it lionizes them."" (Hwang and Horowitt 2012:254)

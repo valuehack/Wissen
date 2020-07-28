@@ -1,0 +1,1 @@
+# "California was where people ran in order to escape the rest of America. Perhaps more than any other place on Earth, California is where the atoms were undocked from their moorings and left to float on their own." (Hwang and Horowitt 2012:113)

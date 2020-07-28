@@ -1,0 +1,1 @@
+# "Innovation is simply a modern form of the Silk Road. Instead of exchanging goods, however, we exchange ideas and skills." (Hwang and Horowitt 2012:98)

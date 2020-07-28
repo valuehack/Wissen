@@ -1,0 +1,1 @@
+# "Entrepreneurs are like the valiant field commanders of the Rainforest, whereas keystones might be considered the connecting agents―like recruiting stations and transport networks―that bring the troops together. Many entrepreneurs are keystones, but not all are." (Hwang and Horowitt 2012:85)

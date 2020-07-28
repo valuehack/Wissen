@@ -1,0 +1,1 @@
+# "Rainforests have replaced tribalism with a culture of informal rules that allow strangers to work together efficiently on temporary projects." (Hwang and Horowitt 2012:114)

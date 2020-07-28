@@ -1,0 +1,1 @@
+# "In contrast, Yahoo! launched in 1994 from the Stanford campus, within a few minutes' drive of most of the leading venture capital managers in America and a concentration of entrepreneurial business talent" (Hwang and Horowitt 2012:46)

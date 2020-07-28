@@ -1,0 +1,1 @@
+# "Our ideas might be considered a subset of the field of complexity economics, the study of complex economic systems. However, we differ generally from complexity economists in our emphasis on practical observation and application." (Hwang and Horowitt 2012:17)

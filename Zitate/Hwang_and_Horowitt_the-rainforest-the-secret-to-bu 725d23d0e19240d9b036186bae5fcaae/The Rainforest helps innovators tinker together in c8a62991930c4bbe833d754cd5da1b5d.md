@@ -1,0 +1,1 @@
+# "The Rainforest helps innovators "tinker" together in the same way that atoms "tinker" together in natural biological systems. Tinkering is how Rainforests discover more valuable recipes for combining and recombining ideas, talent, and capital together." (Hwang and Horowitt 2012:251)

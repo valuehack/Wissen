@@ -1,0 +1,1 @@
+# "Nonverbal signals indicate emotions, and emotions are at the heart of the collaborative process. We cannot understand innovation without recognizing that economic value creation is determined significantly by our emotions toward one another." (Hwang and Horowitt 2012:96)

@@ -1,0 +1,1 @@
+# "Larry is today the founder and executive director of the largest celebration of science in the nation, the USA Science & Engineering Festival, which occurs in Washington, D.C." (Hwang and Horowitt 2012:78)

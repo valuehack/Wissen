@@ -1,0 +1,1 @@
+# "The story of America is the building of a society not burdened by historical tribes. Generally speaking, Americans are less likely to be identified by family history. They are less chained to the past. Instead, Americans tend to be identified by self-reliance and their ability to contribute to the task at hand." (Hwang and Horowitt 2012:113)

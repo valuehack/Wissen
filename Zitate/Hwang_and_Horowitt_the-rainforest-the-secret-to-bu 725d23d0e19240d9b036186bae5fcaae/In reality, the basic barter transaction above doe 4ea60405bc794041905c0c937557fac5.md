@@ -1,0 +1,1 @@
+# "In reality, the basic barter transaction above does not happen naturally, as the differences in perceived value between parties is often vast." (Hwang and Horowitt 2012:102)

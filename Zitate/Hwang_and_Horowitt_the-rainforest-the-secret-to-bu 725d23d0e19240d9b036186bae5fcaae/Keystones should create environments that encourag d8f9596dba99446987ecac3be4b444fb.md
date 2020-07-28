@@ -1,0 +1,1 @@
+# "Keystones should create environments that encourage unpredictable and serendipitous interactions between people." (Hwang and Horowitt 2012:186)

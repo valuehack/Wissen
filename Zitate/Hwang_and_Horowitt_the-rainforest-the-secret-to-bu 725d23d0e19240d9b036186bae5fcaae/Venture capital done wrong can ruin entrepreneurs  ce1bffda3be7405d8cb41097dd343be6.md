@@ -1,0 +1,1 @@
+# "Venture capital done wrong can ruin entrepreneurs and even destroy a local venture economy, like a parasitic species introduced into a natural ecosystem." (Hwang and Horowitt 2012:208)

@@ -1,0 +1,1 @@
+# "It does not take much money to make a huge difference in the beginning. Therefore, the problem with innovation capital is not money. Money is everywhere. Instead, the key is how capital is aggregated and structured at each stage, and the behaviors of the people who control it." (Hwang and Horowitt 2012:199)

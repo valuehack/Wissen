@@ -1,0 +1,1 @@
+# "Leaders in the Rainforest must learn to engineer serendipity, not outcomes. Their primary weapons in this fight are the bridging of social barriers, the building of trust, and the" (Hwang and Horowitt 2012:256)

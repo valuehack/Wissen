@@ -1,0 +1,1 @@
+# "While greater opportunities for innovation are now possible because vast geographical distances are shrinking, people have not developed the skills for dealing with the vast social distances between diverse communities and cultures. Innovators are having a harder time building trust and collaborating across these human distances." (Hwang and Horowitt 2012:56)

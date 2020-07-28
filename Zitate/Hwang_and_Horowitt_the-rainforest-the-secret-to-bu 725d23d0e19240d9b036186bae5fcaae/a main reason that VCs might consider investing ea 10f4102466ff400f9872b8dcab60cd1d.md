@@ -1,0 +1,1 @@
+# "a main reason that VCs might consider investing earlier, when it does happen, is not to extract more return from a particular deal. Instead, they are often trying to get the jump on their competitors in the VC industry." (Hwang and Horowitt 2012:203)

@@ -1,0 +1,1 @@
+# "Coase observed that a "firm" was in fact simply a network of people who found that their costs declined when they did business together on a regular basis. […] Local clusters are no more than an extension of the Coasean model, with lower transaction costs for people who live and work close to each other" (Hwang and Horowitt 2012:54)

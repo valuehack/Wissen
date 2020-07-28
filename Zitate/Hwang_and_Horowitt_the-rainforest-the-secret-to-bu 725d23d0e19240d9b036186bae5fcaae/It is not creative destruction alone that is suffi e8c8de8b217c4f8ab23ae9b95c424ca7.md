@@ -1,0 +1,1 @@
+# "It is not creative destruction alone that is sufficient. Far more important is creative reassembly, the ability of humans to combine and recombine into ever-increasing patterns of efficiency and productivity." (Hwang and Horowitt 2012:19)

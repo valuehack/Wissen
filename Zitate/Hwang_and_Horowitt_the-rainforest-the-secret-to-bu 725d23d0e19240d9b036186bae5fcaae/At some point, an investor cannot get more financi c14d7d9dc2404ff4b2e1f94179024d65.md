@@ -1,0 +1,1 @@
+# "At some point, an investor cannot get more financial return out of a company, no matter how early in the risk curve he or she invests." (Hwang and Horowitt 2012:202)

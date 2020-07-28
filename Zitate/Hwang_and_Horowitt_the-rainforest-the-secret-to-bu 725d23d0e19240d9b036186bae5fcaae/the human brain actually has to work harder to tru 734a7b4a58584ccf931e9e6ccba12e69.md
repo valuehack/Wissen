@@ -1,0 +1,1 @@
+# "the human brain actually has to "work harder" to trust people who have a different ethnicity, language, etc. It is like the difference between reading a complicated textbook and a simple picture book―our brain has to use more energy to process the information it is receiving." (Hwang and Horowitt 2012:106)

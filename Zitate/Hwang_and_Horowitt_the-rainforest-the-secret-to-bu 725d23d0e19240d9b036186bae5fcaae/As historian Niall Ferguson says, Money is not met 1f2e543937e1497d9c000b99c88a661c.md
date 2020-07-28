@@ -1,0 +1,1 @@
+# "As historian Niall Ferguson says, "Money is not metal. It is trust inscribed."" (Hwang and Horowitt 2012:99)

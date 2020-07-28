@@ -1,0 +1,1 @@
+# "what the landscape for venture capital looks like today, especially for seed-stage and early-stage risk capital. About half of it is in Silicon Valley, and California as a whole has even more of it. There is apparently a lot of "missing capital" elsewhere in America and indeed in the rest of the world." (Hwang and Horowitt 2012:200)

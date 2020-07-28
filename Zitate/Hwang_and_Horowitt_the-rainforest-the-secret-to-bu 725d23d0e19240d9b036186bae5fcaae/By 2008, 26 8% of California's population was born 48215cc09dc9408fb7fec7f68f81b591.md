@@ -1,0 +1,1 @@
+# "By 2008, 26.8% of California's population was born outside of the United States, the highest such rate in the country. […] 52.4% of startups in Silicon Valley were founded by at least one immigrant entrepreneur." (Hwang and Horowitt 2012:145)

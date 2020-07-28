@@ -1,0 +1,1 @@
+# "human systems are dissipative. Trust and norms tend to revert over time. It takes effort to maintain their strength." (Hwang and Horowitt 2012:254)

@@ -1,0 +1,1 @@
+# "innovation requires the labors of a vast ecosystem of executives, engineers, salespeople, advisors, consultants, venture capitalists, angel investors, accountants, landlords, lawyers, marketers, bankers, supportive friends, and countless others." (Hwang and Horowitt 2012:87)

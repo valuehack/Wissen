@@ -1,0 +1,1 @@
+# "Rainforests function when the combined value of social norms and extrarational motivations outweigh the human instincts to fear." (Hwang and Horowitt 2012:122)

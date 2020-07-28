@@ -1,0 +1,1 @@
+# "Firms are not strictly about contracts between people― more importantly, they are about relationships between people." (Hwang and Horowitt 2012:55)

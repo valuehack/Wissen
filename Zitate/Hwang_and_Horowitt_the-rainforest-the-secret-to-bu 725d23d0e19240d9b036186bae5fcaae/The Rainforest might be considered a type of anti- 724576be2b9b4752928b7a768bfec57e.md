@@ -1,0 +1,1 @@
+# "The Rainforest might be considered a type of anti-allergy medication for human civilization." (Hwang and Horowitt 2012:235)

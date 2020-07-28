@@ -1,0 +1,1 @@
+# "If there is no company yet formed, we are left only with a form of barter based on the currency of trust." (Hwang and Horowitt 2012:102)

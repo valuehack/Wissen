@@ -1,0 +1,1 @@
+# "Governments and corporations often try to incentivize innovation by focusing on financial mechanisms, such as tax breaks, subsidies, grants, and loans. But the overall results of this strategy have been poor." (Hwang and Horowitt 2012:121)

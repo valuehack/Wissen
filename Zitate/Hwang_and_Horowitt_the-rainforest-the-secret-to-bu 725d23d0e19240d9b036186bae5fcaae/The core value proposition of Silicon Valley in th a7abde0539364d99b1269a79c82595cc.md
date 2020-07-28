@@ -1,0 +1,1 @@
+# "The core value proposition of Silicon Valley in the coming decades will be its role as the cultural center of gravity, the enforcer of norms, and the connector of resources in the global Rainforest." (Hwang and Horowitt 2012:255)

@@ -1,0 +1,1 @@
+# "when tensions in the real world rise between Israelis and Palestinians, social activities (such as "friending" and messaging) between Israelis and Palestinians on Facebook decrease almost immediately." (Hwang and Horowitt 2012:108)

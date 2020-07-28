@@ -1,0 +1,1 @@
+# "Lowered transaction costs due to trust and social norms make high-risk seed-stage and early-stage venture capital investing more profitable." (Hwang and Horowitt 2012:203)

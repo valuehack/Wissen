@@ -1,0 +1,1 @@
+# "To make "good enough" observations at the macroscopic scale, macroeconomists can assume that a system has uniformly open arteries moving resources around―like an "invisible hand"―and still have a useful model." (Hwang and Horowitt 2012:234)

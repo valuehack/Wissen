@@ -1,0 +1,1 @@
+# "We propose that policymakers consider the creation of a new legal form of company entity―a provisional corporation―to provide formal protection to people in the exploratory process of forming a new startup. The cost for registering this type of entity should be free." (Hwang and Horowitt 2012:247)

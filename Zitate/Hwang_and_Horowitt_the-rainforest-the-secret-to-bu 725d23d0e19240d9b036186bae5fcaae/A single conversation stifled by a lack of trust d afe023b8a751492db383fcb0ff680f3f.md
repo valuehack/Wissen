@@ -1,0 +1,1 @@
+# "A single conversation stifled by a lack of trust does not seem significant, but multiply such a conversation thousands or millions of times, and the macro effects can be profound." (Hwang and Horowitt 2012:147)

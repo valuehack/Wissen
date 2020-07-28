@@ -1,0 +1,1 @@
+# "The flow-form model assumes that all links can potentially be opened given enough diversity, trust, rules, and extra-rational motivations." (Hwang and Horowitt 2012:234)

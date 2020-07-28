@@ -1,0 +1,1 @@
+# "We are finding scientific validation for many "soft" human aspirations: the desire to treat people fairly and to be treated fairly, the pleasure of being a member of a community and pursuing a shared goal, the thrill of adventure and discovery, the joy of giving to someone in need, and the addictive quality of trusting and being trusted." (Hwang and Horowitt 2012:123)

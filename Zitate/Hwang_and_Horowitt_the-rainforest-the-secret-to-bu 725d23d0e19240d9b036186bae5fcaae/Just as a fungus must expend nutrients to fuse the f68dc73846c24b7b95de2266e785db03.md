@@ -1,0 +1,1 @@
+# "Just as a fungus must expend nutrients to fuse the ends of hyphae together, a society must invest resources to connect distant points in social networks." (Hwang and Horowitt 2012:235)

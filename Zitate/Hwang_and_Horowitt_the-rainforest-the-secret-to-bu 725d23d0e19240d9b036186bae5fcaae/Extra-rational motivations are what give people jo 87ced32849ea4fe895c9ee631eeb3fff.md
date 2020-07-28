@@ -1,0 +1,1 @@
+# "Extra-rational motivations are what give people joy and satisfaction during the journey. As a result, the journey becomes the end, not just the means. Recent science supports this idea, as fMRI imaging shows that human brains are wired to enjoy the pursuit of a vision more than the actual achievement of that vision." (Hwang and Horowitt 2012:121)

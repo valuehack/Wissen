@@ -3,7 +3,7 @@
 #claim 
 
 [[links between blocks produce structure]]
-[[Links innerhalb von Text (wikilinks) oder nur zwischen Blöcken]]
+[[Notizen-Drafts-Kommentare/Links nicht als Hyperlink im Text, sondern als Beziehungen unterschiedlicher Art zwischen Karten]]
 [[different kinds of links?]]
 [[different strength of links?]]
 

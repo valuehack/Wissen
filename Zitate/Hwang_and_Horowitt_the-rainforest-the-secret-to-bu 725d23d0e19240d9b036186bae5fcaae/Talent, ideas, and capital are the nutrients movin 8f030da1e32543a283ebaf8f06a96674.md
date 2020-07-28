@@ -1,0 +1,1 @@
+# "Talent, ideas, and capital are the nutrients moving through this biological system. Measuring the velocity of such nutrients can provide us the tools with which to measure the health of an innovation ecosystem by observing dynamic activity over time, rather than static points in time." (Hwang and Horowitt 2012:19)

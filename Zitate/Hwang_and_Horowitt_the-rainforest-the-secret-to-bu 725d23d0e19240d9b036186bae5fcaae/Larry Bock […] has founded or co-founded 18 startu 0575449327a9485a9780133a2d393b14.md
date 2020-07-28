@@ -1,0 +1,1 @@
+# "Larry Bock […] has founded or co-founded 18 startup companies, and has been an early investor in 22 others. All told, his companies have generated a cumulative market valuation of over $40 billion. He is one of the most prolific company creators in American history that you have almost certainly never heard of." (Hwang and Horowitt 2012:70)

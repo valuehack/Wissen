@@ -1,0 +1,1 @@
+# "Ewing Kauffman used to say, 'Trust everybody that you work with. You'll get screwed every once in a while, but... people will want to do business with you."" (Hwang and Horowitt 2012:146)

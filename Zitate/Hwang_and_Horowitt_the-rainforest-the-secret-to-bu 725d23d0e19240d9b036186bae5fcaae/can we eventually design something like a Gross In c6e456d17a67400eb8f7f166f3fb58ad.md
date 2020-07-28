@@ -1,0 +1,1 @@
+# "can we eventually design something like a Gross Innovation Product? Probably. […] As computing power increases, we may be able to watch this creative reassembly―the process of people breaking apart and recombining―in real time, with increasing specificity and detail. […] we may even be able to see the Rainforest "breathing" someday" (Hwang and Horowitt 2012:243)

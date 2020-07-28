@@ -1,0 +1,1 @@
+# "disintermediation―directly connecting the nodes without them having to go through the hubs. This is at the heart of what companies like Google, eBay, and Craigslist do for a living" (Hwang and Horowitt 2012:61)
