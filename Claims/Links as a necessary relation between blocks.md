@@ -4,8 +4,8 @@
 
 [[links between blocks produce structure]]
 [[Notizen-Drafts-Kommentare/Links nicht als Hyperlink im Text, sondern als Beziehungen unterschiedlicher Art zwischen Karten]]
-[[different kinds of links?]]
-[[different strength of links?]]
+[[different kinds of links]]
+[[different strength of links]]
 
 ["conversations are naturally networked and selfreferential. But all we have right now is a ceaseless tidal wave of messages represented as an append-only log. Managing it all with search, one level of threads, and channels is Sisyphean at best." ([Tang 2020:3](zotero://open-pdf/library/items/KTGD8N25?page=3))](Links%20as%20a%20necessary%20relation%20between%20blocks%20bf8ea7f4c27244b88a181dfaf08700c6/conversations%20are%20naturally%20networked%20and%20selfrefe%2033e19b6d30e74d20b1fd0ebf29f19d12.md)
 

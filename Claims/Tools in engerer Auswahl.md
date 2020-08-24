@@ -1,7 +1,11 @@
-# Tools in engerer Auswahl
-
-[[Obsidian]]
-[[Foam VS-Code extension]]
-[[Roam]]
-[[Notion]]
-[[vim]]
+- [[Roam]]
+- [[Obsidian]]
+- [[RemNote]]
+- [[Relanote]]
+- [[supernotes]] 
+- [[dendron]]
+- [[TiddlyWiki+Scroll]]
+- [[Foam VS-Code extension]]
+- [[Notion]]
+- [[vim]]
+- https://www.notion.so/Artificial-Brain-Networked-notebook-app-a131b468fc6f43218fb8105430304709
